@@ -1,14 +1,9 @@
 {
-  "items": [
-    {
-      "description": "Found a UI/UX library that you think is awesome?? Want to share it with the world? Add your repo's information to my awesome-creator, where I keep the library metadata!",
-      "items": [],
-      "title": "Contributing"
-    }
-  ],
+  "items": [],
   "metadata": {
-    "last_updated": "2026-08-18T16:53:49.276Z",
+    "last_updated": "2026-08-19T12:33:25.193Z",
     "original_repository": "cjwirth/awesome-ios-ui",
+    "original_repository_id": 33538019,
     "original_repository_sha": "2bb9ace467fc5048fbdbb52e8fb558cc3973a422",
     "enhanced_repository": "enhansome/enhansome-ios-ui",
     "enhanced_repository_description": null,
