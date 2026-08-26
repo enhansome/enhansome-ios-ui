@@ -177,7 +177,7 @@
             "last_commit": "2024-08-10T13:44:15Z",
             "owner": "WenchaoD",
             "repo": "FSCalendar",
-            "stars": 10642
+            "stars": 10643
           }
         },
         {
@@ -1158,7 +1158,7 @@
             "last_commit": "2024-01-28T17:53:51Z",
             "owner": "raulriera",
             "repo": "TextFieldEffects",
-            "stars": 6010
+            "stars": 6011
           }
         },
         {
@@ -1173,7 +1173,7 @@
             "last_commit": "2018-10-29T18:56:03Z",
             "owner": "slackhq",
             "repo": "SlackTextViewController",
-            "stars": 8267
+            "stars": 8266
           }
         },
         {
@@ -1226,7 +1226,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T17:01:58.626Z",
+    "last_updated": "2026-08-26T18:08:38.507Z",
     "original_repository": "cjwirth/awesome-ios-ui",
     "original_repository_id": 33538019,
     "original_repository_sha": "2bb9ace467fc5048fbdbb52e8fb558cc3973a422",
