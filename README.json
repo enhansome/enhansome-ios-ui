@@ -16,7 +16,8 @@
             "owner": "shu223",
             "repo": "AnimatedTransitionGallery",
             "stars": 2504
-          }
+          },
+          "first_seen": "2026-08-29T00:36:12.688Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "Rightpoint",
             "repo": "RZTransitions",
             "stars": 1860
-          }
+          },
+          "first_seen": "2026-08-29T00:36:12.688Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "daltoniam",
             "repo": "DCAnimationKit",
             "stars": 803
-          }
+          },
+          "first_seen": "2026-08-29T00:36:12.688Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "poetmountain",
             "repo": "PMTween",
             "stars": 343
-          }
+          },
+          "first_seen": "2026-08-29T00:36:12.688Z"
         },
         {
           "node_type": "item",
@@ -76,7 +80,8 @@
             "owner": "marty-suzuki",
             "repo": "SAHistoryNavigationViewController",
             "stars": 1555
-          }
+          },
+          "first_seen": "2026-08-29T00:36:12.688Z"
         },
         {
           "node_type": "item",
@@ -91,7 +96,8 @@
             "owner": "dotintent",
             "repo": "WobbleView",
             "stars": 2169
-          }
+          },
+          "first_seen": "2026-08-29T00:36:12.688Z"
         },
         {
           "node_type": "item",
@@ -106,7 +112,8 @@
             "owner": "callumboddy",
             "repo": "CBZSplashView",
             "stars": 1478
-          }
+          },
+          "first_seen": "2026-08-29T00:36:12.688Z"
         }
       ],
       "title": "Animations and Transitions"
@@ -127,7 +134,8 @@
             "owner": "cwRichardKim",
             "repo": "RKNotificationHub",
             "stars": 3033
-          }
+          },
+          "first_seen": "2026-08-29T00:36:12.688Z"
         },
         {
           "node_type": "item",
@@ -142,7 +150,8 @@
             "owner": "TanguyAladenise",
             "repo": "BBBadgeBarButtonItem",
             "stars": 949
-          }
+          },
+          "first_seen": "2026-08-29T00:36:12.688Z"
         },
         {
           "node_type": "item",
@@ -157,7 +166,8 @@
             "owner": "JaviSoto",
             "repo": "JSBadgeView",
             "stars": 1281
-          }
+          },
+          "first_seen": "2026-08-29T00:36:12.688Z"
         }
       ],
       "title": "Badges"
@@ -178,7 +188,8 @@
             "owner": "WenchaoD",
             "repo": "FSCalendar",
             "stars": 10642
-          }
+          },
+          "first_seen": "2026-08-29T00:36:12.688Z"
         },
         {
           "node_type": "item",
@@ -193,7 +204,8 @@
             "owner": "Glow-Inc",
             "repo": "GLCalendarView",
             "stars": 852
-          }
+          },
+          "first_seen": "2026-08-29T00:36:12.688Z"
         },
         {
           "node_type": "item",
@@ -208,7 +220,8 @@
             "owner": "johnvuko",
             "repo": "JTCalendar",
             "stars": 2746
-          }
+          },
+          "first_seen": "2026-08-29T00:36:12.688Z"
         }
       ],
       "title": "Calendars"
@@ -229,7 +242,8 @@
             "owner": "Flipboard",
             "repo": "FLAnimatedImage",
             "stars": 7949
-          }
+          },
+          "first_seen": "2026-08-29T00:36:12.688Z"
         },
         {
           "node_type": "item",
@@ -244,7 +258,8 @@
             "owner": "shu223",
             "repo": "PulsingHalo",
             "stars": 1786
-          }
+          },
+          "first_seen": "2026-08-29T00:36:12.688Z"
         },
         {
           "node_type": "item",
@@ -259,7 +274,8 @@
             "owner": "andreamazz",
             "repo": "UITextField-Shake",
             "stars": 726
-          }
+          },
+          "first_seen": "2026-08-29T00:36:12.688Z"
         }
       ],
       "title": "Effects"
@@ -279,8 +295,9 @@
             "last_commit": "2022-05-16T17:39:01Z",
             "owner": "CosmicMind",
             "repo": "Material",
-            "stars": 12008
-          }
+            "stars": 12010
+          },
+          "first_seen": "2026-08-29T00:36:12.688Z"
         },
         {
           "node_type": "item",
@@ -295,7 +312,8 @@
             "owner": "nghialv",
             "repo": "MaterialKit",
             "stars": 2486
-          }
+          },
+          "first_seen": "2026-08-29T00:36:12.688Z"
         }
       ],
       "title": "Material Design"
@@ -316,7 +334,8 @@
             "owner": "KrauseFx",
             "repo": "TSMessages",
             "stars": 4842
-          }
+          },
+          "first_seen": "2026-08-29T00:36:12.688Z"
         },
         {
           "node_type": "item",
@@ -331,7 +350,8 @@
             "owner": "cruffenach",
             "repo": "CRToast",
             "stars": 4125
-          }
+          },
+          "first_seen": "2026-08-29T00:36:12.688Z"
         },
         {
           "node_type": "item",
@@ -346,7 +366,8 @@
             "owner": "terryworona",
             "repo": "TWMessageBarManager",
             "stars": 1754
-          }
+          },
+          "first_seen": "2026-08-29T00:36:12.688Z"
         },
         {
           "node_type": "item",
@@ -361,7 +382,8 @@
             "owner": "cwRichardKim",
             "repo": "RKDropdownAlert",
             "stars": 1528
-          }
+          },
+          "first_seen": "2026-08-29T00:36:12.688Z"
         },
         {
           "node_type": "item",
@@ -376,7 +398,8 @@
             "owner": "KyoheiG3",
             "repo": "SimpleAlert",
             "stars": 393
-          }
+          },
+          "first_seen": "2026-08-29T00:36:12.688Z"
         },
         {
           "node_type": "item",
@@ -391,7 +414,8 @@
             "owner": "atljeremy",
             "repo": "JFMinimalNotifications",
             "stars": 934
-          }
+          },
+          "first_seen": "2026-08-29T00:36:12.688Z"
         },
         {
           "node_type": "item",
@@ -406,7 +430,8 @@
             "owner": "matteogobbi",
             "repo": "MGFashionMenuView",
             "stars": 337
-          }
+          },
+          "first_seen": "2026-08-29T00:36:12.688Z"
         },
         {
           "node_type": "item",
@@ -421,7 +446,8 @@
             "owner": "jmascia",
             "repo": "KLCPopup",
             "stars": 1679
-          }
+          },
+          "first_seen": "2026-08-29T00:36:12.688Z"
         },
         {
           "node_type": "item",
@@ -436,7 +462,8 @@
             "owner": "m1entus",
             "repo": "MZFormSheetController",
             "stars": 2520
-          }
+          },
+          "first_seen": "2026-08-29T00:36:12.688Z"
         },
         {
           "node_type": "item",
@@ -451,7 +478,8 @@
             "owner": "thii",
             "repo": "Notie",
             "stars": 84
-          }
+          },
+          "first_seen": "2026-08-29T00:36:12.688Z"
         },
         {
           "node_type": "item",
@@ -466,7 +494,8 @@
             "owner": "LeoNatan",
             "repo": "LNNotificationsUI",
             "stars": 783
-          }
+          },
+          "first_seen": "2026-08-29T00:36:12.688Z"
         }
       ],
       "title": "Notifications and Alerts"
@@ -487,7 +516,8 @@
             "owner": "IFTTT",
             "repo": "JazzHands",
             "stars": 6361
-          }
+          },
+          "first_seen": "2026-08-29T00:36:12.688Z"
         },
         {
           "node_type": "item",
@@ -502,7 +532,8 @@
             "owner": "MatthewYork",
             "repo": "MYBlurIntroductionView",
             "stars": 1517
-          }
+          },
+          "first_seen": "2026-08-29T00:36:12.688Z"
         },
         {
           "node_type": "item",
@@ -517,7 +548,8 @@
             "owner": "mamaral",
             "repo": "Onboard",
             "stars": 6560
-          }
+          },
+          "first_seen": "2026-08-29T00:36:12.688Z"
         }
       ],
       "title": "Onboarding and Tutorials"
@@ -538,7 +570,8 @@
             "owner": "mwaterfall",
             "repo": "MWPhotoBrowser",
             "stars": 8711
-          }
+          },
+          "first_seen": "2026-08-29T00:36:12.688Z"
         },
         {
           "node_type": "item",
@@ -553,7 +586,8 @@
             "owner": "0xced",
             "repo": "XCDYouTubeKit",
             "stars": 2921
-          }
+          },
+          "first_seen": "2026-08-29T00:36:12.688Z"
         },
         {
           "node_type": "item",
@@ -568,7 +602,8 @@
             "owner": "mariohahn",
             "repo": "MHVideoPhotoGallery",
             "stars": 1947
-          }
+          },
+          "first_seen": "2026-08-29T00:36:12.688Z"
         },
         {
           "node_type": "item",
@@ -583,7 +618,8 @@
             "owner": "EddyBorja",
             "repo": "EBPhotoPages",
             "stars": 1624
-          }
+          },
+          "first_seen": "2026-08-29T00:36:12.688Z"
         },
         {
           "node_type": "item",
@@ -598,7 +634,8 @@
             "owner": "autresphere",
             "repo": "ASMediaFocusManager",
             "stars": 889
-          }
+          },
+          "first_seen": "2026-08-29T00:36:12.688Z"
         },
         {
           "node_type": "item",
@@ -613,7 +650,8 @@
             "owner": "sahin",
             "repo": "VideoSplashKit",
             "stars": 1213
-          }
+          },
+          "first_seen": "2026-08-29T00:36:12.688Z"
         }
       ],
       "title": "Photo and Video"
@@ -633,8 +671,9 @@
             "last_commit": "2024-08-14T01:48:59Z",
             "owner": "jdg",
             "repo": "MBProgressHUD",
-            "stars": 15932
-          }
+            "stars": 15931
+          },
+          "first_seen": "2026-08-29T00:36:12.688Z"
         },
         {
           "node_type": "item",
@@ -649,7 +688,8 @@
             "owner": "mrackwitz",
             "repo": "MRProgress",
             "stars": 2526
-          }
+          },
+          "first_seen": "2026-08-29T00:36:12.688Z"
         },
         {
           "node_type": "item",
@@ -664,7 +704,8 @@
             "owner": "Marxon13",
             "repo": "M13ProgressSuite",
             "stars": 3900
-          }
+          },
+          "first_seen": "2026-08-29T00:36:12.688Z"
         },
         {
           "node_type": "item",
@@ -679,7 +720,8 @@
             "owner": "fabianofrancesconi",
             "repo": "FFCircularProgressView",
             "stars": 988
-          }
+          },
+          "first_seen": "2026-08-29T00:36:12.688Z"
         },
         {
           "node_type": "item",
@@ -694,7 +736,8 @@
             "owner": "skywinder",
             "repo": "GaugeKit",
             "stars": 1022
-          }
+          },
+          "first_seen": "2026-08-29T00:36:12.688Z"
         },
         {
           "node_type": "item",
@@ -709,7 +752,8 @@
             "owner": "ninjaprox",
             "repo": "NVActivityIndicatorView",
             "stars": 10708
-          }
+          },
+          "first_seen": "2026-08-29T00:36:12.688Z"
         }
       ],
       "title": "Progress Views"
@@ -730,7 +774,8 @@
             "owner": "coolbeet",
             "repo": "CBStoreHouseRefreshControl",
             "stars": 3888
-          }
+          },
+          "first_seen": "2026-08-29T00:36:12.688Z"
         },
         {
           "node_type": "item",
@@ -745,7 +790,8 @@
             "owner": "uzysjung",
             "repo": "UzysAnimatedGifPullToRefresh",
             "stars": 1396
-          }
+          },
+          "first_seen": "2026-08-29T00:36:12.688Z"
         },
         {
           "node_type": "item",
@@ -760,7 +806,8 @@
             "owner": "mentionapp",
             "repo": "mntpulltoreact",
             "stars": 767
-          }
+          },
+          "first_seen": "2026-08-29T00:36:12.688Z"
         },
         {
           "node_type": "item",
@@ -775,7 +822,8 @@
             "owner": "uzysjung",
             "repo": "UzysCircularProgressPullToRefresh",
             "stars": 340
-          }
+          },
+          "first_seen": "2026-08-29T00:36:12.688Z"
         },
         {
           "node_type": "item",
@@ -790,7 +838,8 @@
             "owner": "cemolcay",
             "repo": "PullToRefreshCoreText",
             "stars": 310
-          }
+          },
+          "first_seen": "2026-08-29T00:36:12.688Z"
         }
       ],
       "title": "RefreshControls"
@@ -811,7 +860,8 @@
             "owner": "romaonthego",
             "repo": "RESideMenu",
             "stars": 7039
-          }
+          },
+          "first_seen": "2026-08-29T00:36:12.688Z"
         },
         {
           "node_type": "item",
@@ -826,7 +876,8 @@
             "owner": "romaonthego",
             "repo": "REFrostedViewController",
             "stars": 2935
-          }
+          },
+          "first_seen": "2026-08-29T00:36:12.688Z"
         },
         {
           "node_type": "item",
@@ -841,7 +892,8 @@
             "owner": "twotoasters",
             "repo": "TWTSideMenuViewController",
             "stars": 842
-          }
+          },
+          "first_seen": "2026-08-29T00:36:12.688Z"
         },
         {
           "node_type": "item",
@@ -856,7 +908,8 @@
             "owner": "matghazaryan",
             "repo": "AMSlideMenu2",
             "stars": 1193
-          }
+          },
+          "first_seen": "2026-08-29T00:36:12.688Z"
         },
         {
           "node_type": "item",
@@ -871,7 +924,8 @@
             "owner": "zigzagg16",
             "repo": "cariocamenu",
             "stars": 776
-          }
+          },
+          "first_seen": "2026-08-29T00:36:12.688Z"
         }
       ],
       "title": "Side Menu"
@@ -892,7 +946,8 @@
             "owner": "jamesdunay",
             "repo": "MinimalTabBar",
             "stars": 152
-          }
+          },
+          "first_seen": "2026-08-29T00:36:12.688Z"
         },
         {
           "node_type": "item",
@@ -907,7 +962,8 @@
             "owner": "Ramotion",
             "repo": "adaptive-tab-bar",
             "stars": 2003
-          }
+          },
+          "first_seen": "2026-08-29T00:36:12.688Z"
         },
         {
           "node_type": "item",
@@ -922,7 +978,8 @@
             "owner": "Yalantis",
             "repo": "FoldingTabBar.iOS",
             "stars": 3663
-          }
+          },
+          "first_seen": "2026-08-29T00:36:12.688Z"
         },
         {
           "node_type": "item",
@@ -937,7 +994,8 @@
             "owner": "Goles",
             "repo": "GGTabBar",
             "stars": 156
-          }
+          },
+          "first_seen": "2026-08-29T00:36:12.688Z"
         },
         {
           "node_type": "item",
@@ -952,7 +1010,8 @@
             "owner": "bfeher",
             "repo": "BFPaperTabBarController",
             "stars": 343
-          }
+          },
+          "first_seen": "2026-08-29T00:36:12.688Z"
         }
       ],
       "title": "Tab Bars"
@@ -973,7 +1032,8 @@
             "owner": "MP0w",
             "repo": "MPSkewed",
             "stars": 431
-          }
+          },
+          "first_seen": "2026-08-29T00:36:12.688Z"
         },
         {
           "node_type": "item",
@@ -988,7 +1048,8 @@
             "owner": "Augustyniak",
             "repo": "RATreeView",
             "stars": 2481
-          }
+          },
+          "first_seen": "2026-08-29T00:36:12.688Z"
         },
         {
           "node_type": "item",
@@ -1003,7 +1064,8 @@
             "owner": "betzerra",
             "repo": "MosaicLayout",
             "stars": 504
-          }
+          },
+          "first_seen": "2026-08-29T00:36:12.688Z"
         },
         {
           "node_type": "item",
@@ -1018,7 +1080,8 @@
             "owner": "damirstuhec",
             "repo": "DSDynamicScrollView",
             "stars": 171
-          }
+          },
+          "first_seen": "2026-08-29T00:36:12.688Z"
         },
         {
           "node_type": "item",
@@ -1033,7 +1096,8 @@
             "owner": "CSStickyHeaderFlowLayout",
             "repo": "CSStickyHeaderFlowLayout",
             "stars": 5033
-          }
+          },
+          "first_seen": "2026-08-29T00:36:12.688Z"
         },
         {
           "node_type": "item",
@@ -1048,7 +1112,8 @@
             "owner": "bryankeller",
             "repo": "BLKFlexibleHeightBar",
             "stars": 3067
-          }
+          },
+          "first_seen": "2026-08-29T00:36:12.688Z"
         },
         {
           "node_type": "item",
@@ -1063,7 +1128,8 @@
             "owner": "marty-suzuki",
             "repo": "SAParallaxViewControllerSwift",
             "stars": 260
-          }
+          },
+          "first_seen": "2026-08-29T00:36:12.688Z"
         },
         {
           "node_type": "item",
@@ -1078,7 +1144,8 @@
             "owner": "matteogobbi",
             "repo": "MGSpotyViewController",
             "stars": 1013
-          }
+          },
+          "first_seen": "2026-08-29T00:36:12.688Z"
         },
         {
           "node_type": "item",
@@ -1093,7 +1160,8 @@
             "owner": "ra1028",
             "repo": "RAReorderableLayout",
             "stars": 865
-          }
+          },
+          "first_seen": "2026-08-29T00:36:12.688Z"
         }
       ],
       "title": "Table/Collection Views"
@@ -1114,7 +1182,8 @@
             "owner": "ren6",
             "repo": "RKRichTextView",
             "stars": 145
-          }
+          },
+          "first_seen": "2026-08-29T00:36:12.688Z"
         },
         {
           "node_type": "item",
@@ -1129,7 +1198,8 @@
             "owner": "nnhubbard",
             "repo": "ZSSRichTextEditor",
             "stars": 3782
-          }
+          },
+          "first_seen": "2026-08-29T00:36:12.688Z"
         },
         {
           "node_type": "item",
@@ -1144,7 +1214,8 @@
             "owner": "cjwirth",
             "repo": "RichEditorView",
             "stars": 1893
-          }
+          },
+          "first_seen": "2026-08-29T00:36:12.688Z"
         },
         {
           "node_type": "item",
@@ -1159,7 +1230,8 @@
             "owner": "raulriera",
             "repo": "TextFieldEffects",
             "stars": 6013
-          }
+          },
+          "first_seen": "2026-08-29T00:36:12.688Z"
         },
         {
           "node_type": "item",
@@ -1174,7 +1246,8 @@
             "owner": "slackhq",
             "repo": "SlackTextViewController",
             "stars": 8266
-          }
+          },
+          "first_seen": "2026-08-29T00:36:12.688Z"
         },
         {
           "node_type": "item",
@@ -1189,7 +1262,8 @@
             "owner": "jverdi",
             "repo": "JVFloatLabeledTextField",
             "stars": 7141
-          }
+          },
+          "first_seen": "2026-08-29T00:36:12.688Z"
         },
         {
           "node_type": "item",
@@ -1204,7 +1278,8 @@
             "owner": "skywinder",
             "repo": "ActionSheetPicker-3.0",
             "stars": 3381
-          }
+          },
+          "first_seen": "2026-08-29T00:36:12.688Z"
         },
         {
           "node_type": "item",
@@ -1219,14 +1294,15 @@
             "owner": "hanton",
             "repo": "HTYTextField",
             "stars": 309
-          }
+          },
+          "first_seen": "2026-08-29T00:36:12.688Z"
         }
       ],
       "title": "User Input"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T01:00:39.146Z",
+    "last_updated": "2026-08-29T00:36:12.688Z",
     "original_repository_info": {
       "archived": false,
       "id": 33538019,
@@ -1234,7 +1310,7 @@
       "last_commit": "2018-03-08T08:57:40Z",
       "owner": "cjwirth",
       "repo": "awesome-ios-ui",
-      "stars": 11215
+      "stars": 11216
     },
     "original_repository_sha": "2bb9ace467fc5048fbdbb52e8fb558cc3973a422",
     "enhanced_repository": "enhansome/enhansome-ios-ui",
