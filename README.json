@@ -400,7 +400,7 @@
             "open_issues": 37,
             "owner": "CosmicMind",
             "repo": "Material",
-            "stars": 12012,
+            "stars": 12011,
             "topics": [
               "animation",
               "card",
@@ -1824,7 +1824,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T19:26:31.088Z",
+    "last_updated": "2026-08-30T19:22:06.422Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome iOS UI/UX libraries",

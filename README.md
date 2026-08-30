@@ -64,7 +64,7 @@ Found a UI/UX library that you think is *awesome*?? Want to share it with the wo
 
 | Repo                                                                                                                                                                                                                                                                                                                   | Demo                                                                                                  |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- |
-| [Material](https://github.com/CosmicMind/Material) ⭐ 12,012 \| 🐛 37 \| 🌐 Swift \| 📅 2022-05-16 <br> [![](http://gh-btns.cjwirth.com/stars/CosmicMind/Material)](https://github.com/CosmicMind/Material/stargazers) ⭐ 12,012 \| 🐛 37 \| 🌐 Swift \| 📅 2022-05-16 <br> Language: Swift <br> License: [BSD-3][BSD-3] | <img src="/assets/Material1.gif"> <img src="/assets/Material2.gif"> <img src="/assets/Material3.gif"> |
+| [Material](https://github.com/CosmicMind/Material) ⭐ 12,011 \| 🐛 37 \| 🌐 Swift \| 📅 2022-05-16 <br> [![](http://gh-btns.cjwirth.com/stars/CosmicMind/Material)](https://github.com/CosmicMind/Material/stargazers) ⭐ 12,011 \| 🐛 37 \| 🌐 Swift \| 📅 2022-05-16 <br> Language: Swift <br> License: [BSD-3][BSD-3] | <img src="/assets/Material1.gif"> <img src="/assets/Material2.gif"> <img src="/assets/Material3.gif"> |
 | [MaterialKit](https://github.com/nghialv/MaterialKit) ⭐ 2,486 \| 🐛 34 \| 🌐 Swift \| 📅 2020-11-24 <br> [![](http://gh-btns.cjwirth.com/stars/nghialv/MaterialKit)](https://github.com/nghialv/MaterialKit/stargazers) ⭐ 2,486 \| 🐛 34 \| 🌐 Swift \| 📅 2020-11-24 <br> Language: Swift <br> License: [MIT][MIT]    | <img src="/assets/MaterialKit1.gif">                                                                  |
 
 # Notifications and Alerts
@@ -189,4 +189,4 @@ Found a UI/UX library that you think is *awesome*?? Want to share it with the wo
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-30._
