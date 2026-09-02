@@ -773,7 +773,7 @@
             "open_issues": 45,
             "owner": "mamaral",
             "repo": "Onboard",
-            "stars": 6561,
+            "stars": 6562,
             "topics": []
           },
           "first_seen": "2026-08-29T00:36:12.688Z"
@@ -846,7 +846,7 @@
             "open_issues": 66,
             "owner": "mariohahn",
             "repo": "MHVideoPhotoGallery",
-            "stars": 1947,
+            "stars": 1946,
             "topics": []
           },
           "first_seen": "2026-08-29T00:36:12.688Z"
@@ -1051,7 +1051,7 @@
             "open_issues": 1,
             "owner": "ninjaprox",
             "repo": "NVActivityIndicatorView",
-            "stars": 10708,
+            "stars": 10710,
             "topics": [
               "animation",
               "carthage",
@@ -1371,7 +1371,7 @@
             "open_issues": 14,
             "owner": "Yalantis",
             "repo": "FoldingTabBar.iOS",
-            "stars": 3664,
+            "stars": 3665,
             "topics": [
               "animation",
               "carthage",
@@ -1709,7 +1709,7 @@
             "open_issues": 7,
             "owner": "raulriera",
             "repo": "TextFieldEffects",
-            "stars": 6014,
+            "stars": 6015,
             "topics": [
               "animation",
               "effects",
@@ -1824,7 +1824,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T19:27:08.922Z",
+    "last_updated": "2026-09-02T19:25:35.244Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome iOS UI/UX libraries",
