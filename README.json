@@ -251,7 +251,7 @@
             "open_issues": 503,
             "owner": "WenchaoD",
             "repo": "FSCalendar",
-            "stars": 10640,
+            "stars": 10639,
             "topics": [
               "calendar",
               "carthage",
@@ -331,7 +331,7 @@
             "open_issues": 83,
             "owner": "Flipboard",
             "repo": "FLAnimatedImage",
-            "stars": 7950,
+            "stars": 7951,
             "topics": []
           },
           "first_seen": "2026-08-29T00:36:12.688Z"
@@ -400,7 +400,7 @@
             "open_issues": 37,
             "owner": "CosmicMind",
             "repo": "Material",
-            "stars": 12009,
+            "stars": 12010,
             "topics": [
               "animation",
               "card",
@@ -655,7 +655,7 @@
             "open_issues": 10,
             "owner": "m1entus",
             "repo": "MZFormSheetController",
-            "stars": 2520,
+            "stars": 2519,
             "topics": []
           },
           "first_seen": "2026-08-29T00:36:12.688Z"
@@ -1756,7 +1756,7 @@
             "open_issues": 28,
             "owner": "jverdi",
             "repo": "JVFloatLabeledTextField",
-            "stars": 7140,
+            "stars": 7139,
             "topics": [
               "carthage",
               "floating-labels",
@@ -1824,7 +1824,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T19:25:35.244Z",
+    "last_updated": "2026-09-03T19:20:21.024Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome iOS UI/UX libraries",
