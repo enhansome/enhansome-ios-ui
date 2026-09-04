@@ -182,7 +182,7 @@
             "open_issues": 3,
             "owner": "cwRichardKim",
             "repo": "RKNotificationHub",
-            "stars": 3032,
+            "stars": 3031,
             "topics": []
           },
           "first_seen": "2026-08-29T00:36:12.688Z"
@@ -936,7 +936,7 @@
             "open_issues": 94,
             "owner": "jdg",
             "repo": "MBProgressHUD",
-            "stars": 15928,
+            "stars": 15927,
             "topics": []
           },
           "first_seen": "2026-08-29T00:36:12.688Z"
@@ -1735,7 +1735,7 @@
             "open_issues": 79,
             "owner": "slackhq",
             "repo": "SlackTextViewController",
-            "stars": 8265,
+            "stars": 8264,
             "topics": []
           },
           "first_seen": "2026-08-29T00:36:12.688Z"
@@ -1756,7 +1756,7 @@
             "open_issues": 28,
             "owner": "jverdi",
             "repo": "JVFloatLabeledTextField",
-            "stars": 7139,
+            "stars": 7138,
             "topics": [
               "carthage",
               "floating-labels",
@@ -1824,7 +1824,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T19:20:21.024Z",
+    "last_updated": "2026-09-04T19:01:21.977Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome iOS UI/UX libraries",
