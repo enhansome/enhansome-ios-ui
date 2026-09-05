@@ -888,7 +888,7 @@
             "open_issues": 12,
             "owner": "autresphere",
             "repo": "ASMediaFocusManager",
-            "stars": 889,
+            "stars": 888,
             "topics": []
           },
           "first_seen": "2026-08-29T00:36:12.688Z"
@@ -936,7 +936,7 @@
             "open_issues": 94,
             "owner": "jdg",
             "repo": "MBProgressHUD",
-            "stars": 15927,
+            "stars": 15926,
             "topics": []
           },
           "first_seen": "2026-08-29T00:36:12.688Z"
@@ -1535,7 +1535,7 @@
             "open_issues": 24,
             "owner": "CSStickyHeaderFlowLayout",
             "repo": "CSStickyHeaderFlowLayout",
-            "stars": 5032,
+            "stars": 5033,
             "topics": []
           },
           "first_seen": "2026-08-29T00:36:12.688Z"
@@ -1735,7 +1735,7 @@
             "open_issues": 79,
             "owner": "slackhq",
             "repo": "SlackTextViewController",
-            "stars": 8264,
+            "stars": 8263,
             "topics": []
           },
           "first_seen": "2026-08-29T00:36:12.688Z"
@@ -1785,7 +1785,7 @@
             "open_issues": 19,
             "owner": "skywinder",
             "repo": "ActionSheetPicker-3.0",
-            "stars": 3380,
+            "stars": 3379,
             "topics": [
               "actionsheet",
               "hacktoberfest",
@@ -1824,7 +1824,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T19:01:21.977Z",
+    "last_updated": "2026-09-05T18:25:54.355Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome iOS UI/UX libraries",
