@@ -224,7 +224,7 @@
             "open_issues": 8,
             "owner": "JaviSoto",
             "repo": "JSBadgeView",
-            "stars": 1279,
+            "stars": 1278,
             "topics": []
           },
           "first_seen": "2026-08-29T00:36:12.688Z"
@@ -373,7 +373,7 @@
             "open_issues": 0,
             "owner": "andreamazz",
             "repo": "UITextField-Shake",
-            "stars": 725,
+            "stars": 723,
             "topics": []
           },
           "first_seen": "2026-08-29T00:36:12.688Z"
@@ -468,7 +468,7 @@
             "open_issues": 94,
             "owner": "KrauseFx",
             "repo": "TSMessages",
-            "stars": 4839,
+            "stars": 4838,
             "topics": [
               "cocoapods",
               "ios",
@@ -773,7 +773,7 @@
             "open_issues": 45,
             "owner": "mamaral",
             "repo": "Onboard",
-            "stars": 6560,
+            "stars": 6559,
             "topics": []
           },
           "first_seen": "2026-08-29T00:36:12.688Z"
@@ -800,7 +800,7 @@
             "open_issues": 335,
             "owner": "mwaterfall",
             "repo": "MWPhotoBrowser",
-            "stars": 8708,
+            "stars": 8707,
             "topics": []
           },
           "first_seen": "2026-08-29T00:36:12.688Z"
@@ -936,7 +936,7 @@
             "open_issues": 94,
             "owner": "jdg",
             "repo": "MBProgressHUD",
-            "stars": 15925,
+            "stars": 15924,
             "topics": []
           },
           "first_seen": "2026-08-29T00:36:12.688Z"
@@ -1371,7 +1371,7 @@
             "open_issues": 14,
             "owner": "Yalantis",
             "repo": "FoldingTabBar.iOS",
-            "stars": 3662,
+            "stars": 3661,
             "topics": [
               "animation",
               "carthage",
@@ -1824,7 +1824,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T20:01:52.054Z",
+    "last_updated": "2026-09-08T19:28:35.023Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome iOS UI/UX libraries",
