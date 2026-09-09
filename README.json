@@ -331,7 +331,7 @@
             "open_issues": 83,
             "owner": "Flipboard",
             "repo": "FLAnimatedImage",
-            "stars": 7947,
+            "stars": 7946,
             "topics": []
           },
           "first_seen": "2026-08-29T00:36:12.688Z"
@@ -1093,7 +1093,7 @@
             "open_issues": 27,
             "owner": "coolbeet",
             "repo": "CBStoreHouseRefreshControl",
-            "stars": 3884,
+            "stars": 3883,
             "topics": []
           },
           "first_seen": "2026-08-29T00:36:12.688Z"
@@ -1824,7 +1824,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T19:28:35.023Z",
+    "last_updated": "2026-09-09T19:20:13.852Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome iOS UI/UX libraries",
@@ -1836,7 +1836,7 @@
       "open_issues": 12,
       "owner": "cjwirth",
       "repo": "awesome-ios-ui",
-      "stars": 11212,
+      "stars": 11213,
       "topics": []
     },
     "original_repository_sha": "2bb9ace467fc5048fbdbb52e8fb558cc3973a422",
