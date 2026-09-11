@@ -400,7 +400,7 @@
             "open_issues": 37,
             "owner": "CosmicMind",
             "repo": "Material",
-            "stars": 12006,
+            "stars": 12007,
             "topics": [
               "animation",
               "card",
@@ -731,7 +731,7 @@
             "open_issues": 14,
             "owner": "IFTTT",
             "repo": "JazzHands",
-            "stars": 6356,
+            "stars": 6355,
             "topics": []
           },
           "first_seen": "2026-08-29T00:36:12.688Z"
@@ -773,7 +773,7 @@
             "open_issues": 45,
             "owner": "mamaral",
             "repo": "Onboard",
-            "stars": 6559,
+            "stars": 6558,
             "topics": []
           },
           "first_seen": "2026-08-29T00:36:12.688Z"
@@ -800,7 +800,7 @@
             "open_issues": 335,
             "owner": "mwaterfall",
             "repo": "MWPhotoBrowser",
-            "stars": 8706,
+            "stars": 8705,
             "topics": []
           },
           "first_seen": "2026-08-29T00:36:12.688Z"
@@ -821,7 +821,7 @@
             "open_issues": 50,
             "owner": "0xced",
             "repo": "XCDYouTubeKit",
-            "stars": 2922,
+            "stars": 2923,
             "topics": [
               "player",
               "video",
@@ -936,7 +936,7 @@
             "open_issues": 94,
             "owner": "jdg",
             "repo": "MBProgressHUD",
-            "stars": 15923,
+            "stars": 15922,
             "topics": []
           },
           "first_seen": "2026-08-29T00:36:12.688Z"
@@ -1051,7 +1051,7 @@
             "open_issues": 1,
             "owner": "ninjaprox",
             "repo": "NVActivityIndicatorView",
-            "stars": 10706,
+            "stars": 10707,
             "topics": [
               "animation",
               "carthage",
@@ -1346,7 +1346,7 @@
             "open_issues": 5,
             "owner": "Ramotion",
             "repo": "adaptive-tab-bar",
-            "stars": 2003,
+            "stars": 2002,
             "topics": [
               "ios",
               "library",
@@ -1472,7 +1472,7 @@
             "open_issues": 105,
             "owner": "Augustyniak",
             "repo": "RATreeView",
-            "stars": 2481,
+            "stars": 2480,
             "topics": []
           },
           "first_seen": "2026-08-29T00:36:12.688Z"
@@ -1535,7 +1535,7 @@
             "open_issues": 24,
             "owner": "CSStickyHeaderFlowLayout",
             "repo": "CSStickyHeaderFlowLayout",
-            "stars": 5031,
+            "stars": 5030,
             "topics": []
           },
           "first_seen": "2026-08-29T00:36:12.688Z"
@@ -1824,7 +1824,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T19:09:57.441Z",
+    "last_updated": "2026-09-11T19:12:02.930Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome iOS UI/UX libraries",
@@ -1836,7 +1836,7 @@
       "open_issues": 12,
       "owner": "cjwirth",
       "repo": "awesome-ios-ui",
-      "stars": 11215,
+      "stars": 11214,
       "topics": []
     },
     "original_repository_sha": "2bb9ace467fc5048fbdbb52e8fb558cc3973a422",
