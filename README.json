@@ -19,7 +19,7 @@
             "open_issues": 1,
             "owner": "shu223",
             "repo": "AnimatedTransitionGallery",
-            "stars": 2502,
+            "stars": 2501,
             "topics": []
           },
           "first_seen": "2026-08-29T00:36:12.688Z"
@@ -40,7 +40,7 @@
             "open_issues": 11,
             "owner": "Rightpoint",
             "repo": "RZTransitions",
-            "stars": 1858,
+            "stars": 1857,
             "topics": []
           },
           "first_seen": "2026-08-29T00:36:12.688Z"
@@ -155,7 +155,7 @@
             "open_issues": 13,
             "owner": "callumboddy",
             "repo": "CBZSplashView",
-            "stars": 1476,
+            "stars": 1475,
             "topics": []
           },
           "first_seen": "2026-08-29T00:36:12.688Z"
@@ -182,7 +182,7 @@
             "open_issues": 3,
             "owner": "cwRichardKim",
             "repo": "RKNotificationHub",
-            "stars": 3029,
+            "stars": 3028,
             "topics": []
           },
           "first_seen": "2026-08-29T00:36:12.688Z"
@@ -301,7 +301,7 @@
             "open_issues": 118,
             "owner": "johnvuko",
             "repo": "JTCalendar",
-            "stars": 2744,
+            "stars": 2743,
             "topics": [
               "calendar",
               "ios"
@@ -331,7 +331,7 @@
             "open_issues": 83,
             "owner": "Flipboard",
             "repo": "FLAnimatedImage",
-            "stars": 7946,
+            "stars": 7945,
             "topics": []
           },
           "first_seen": "2026-08-29T00:36:12.688Z"
@@ -352,7 +352,7 @@
             "open_issues": 13,
             "owner": "shu223",
             "repo": "PulsingHalo",
-            "stars": 1785,
+            "stars": 1784,
             "topics": []
           },
           "first_seen": "2026-08-29T00:36:12.688Z"
@@ -400,7 +400,7 @@
             "open_issues": 37,
             "owner": "CosmicMind",
             "repo": "Material",
-            "stars": 12010,
+            "stars": 12009,
             "topics": [
               "animation",
               "card",
@@ -468,7 +468,7 @@
             "open_issues": 94,
             "owner": "KrauseFx",
             "repo": "TSMessages",
-            "stars": 4838,
+            "stars": 4837,
             "topics": [
               "cocoapods",
               "ios",
@@ -634,7 +634,7 @@
             "open_issues": 56,
             "owner": "jmascia",
             "repo": "KLCPopup",
-            "stars": 1676,
+            "stars": 1675,
             "topics": []
           },
           "first_seen": "2026-08-29T00:36:12.688Z"
@@ -655,7 +655,7 @@
             "open_issues": 10,
             "owner": "m1entus",
             "repo": "MZFormSheetController",
-            "stars": 2519,
+            "stars": 2518,
             "topics": []
           },
           "first_seen": "2026-08-29T00:36:12.688Z"
@@ -731,7 +731,7 @@
             "open_issues": 14,
             "owner": "IFTTT",
             "repo": "JazzHands",
-            "stars": 6355,
+            "stars": 6354,
             "topics": []
           },
           "first_seen": "2026-08-29T00:36:12.688Z"
@@ -800,7 +800,7 @@
             "open_issues": 335,
             "owner": "mwaterfall",
             "repo": "MWPhotoBrowser",
-            "stars": 8705,
+            "stars": 8704,
             "topics": []
           },
           "first_seen": "2026-08-29T00:36:12.688Z"
@@ -821,7 +821,7 @@
             "open_issues": 50,
             "owner": "0xced",
             "repo": "XCDYouTubeKit",
-            "stars": 2923,
+            "stars": 2922,
             "topics": [
               "player",
               "video",
@@ -846,7 +846,7 @@
             "open_issues": 66,
             "owner": "mariohahn",
             "repo": "MHVideoPhotoGallery",
-            "stars": 1946,
+            "stars": 1945,
             "topics": []
           },
           "first_seen": "2026-08-29T00:36:12.688Z"
@@ -867,7 +867,7 @@
             "open_issues": 19,
             "owner": "EddyBorja",
             "repo": "EBPhotoPages",
-            "stars": 1623,
+            "stars": 1622,
             "topics": []
           },
           "first_seen": "2026-08-29T00:36:12.688Z"
@@ -957,7 +957,7 @@
             "open_issues": 37,
             "owner": "mrackwitz",
             "repo": "MRProgress",
-            "stars": 2525,
+            "stars": 2524,
             "topics": []
           },
           "first_seen": "2026-08-29T00:36:12.688Z"
@@ -978,7 +978,7 @@
             "open_issues": 48,
             "owner": "Marxon13",
             "repo": "M13ProgressSuite",
-            "stars": 3898,
+            "stars": 3897,
             "topics": []
           },
           "first_seen": "2026-08-29T00:36:12.688Z"
@@ -1093,7 +1093,7 @@
             "open_issues": 27,
             "owner": "coolbeet",
             "repo": "CBStoreHouseRefreshControl",
-            "stars": 3884,
+            "stars": 3883,
             "topics": []
           },
           "first_seen": "2026-08-29T00:36:12.688Z"
@@ -1246,7 +1246,7 @@
             "open_issues": 18,
             "owner": "twotoasters",
             "repo": "TWTSideMenuViewController",
-            "stars": 842,
+            "stars": 841,
             "topics": []
           },
           "first_seen": "2026-08-29T00:36:12.688Z"
@@ -1371,7 +1371,7 @@
             "open_issues": 14,
             "owner": "Yalantis",
             "repo": "FoldingTabBar.iOS",
-            "stars": 3661,
+            "stars": 3660,
             "topics": [
               "animation",
               "carthage",
@@ -1472,7 +1472,7 @@
             "open_issues": 105,
             "owner": "Augustyniak",
             "repo": "RATreeView",
-            "stars": 2480,
+            "stars": 2479,
             "topics": []
           },
           "first_seen": "2026-08-29T00:36:12.688Z"
@@ -1535,7 +1535,7 @@
             "open_issues": 24,
             "owner": "CSStickyHeaderFlowLayout",
             "repo": "CSStickyHeaderFlowLayout",
-            "stars": 5030,
+            "stars": 5029,
             "topics": []
           },
           "first_seen": "2026-08-29T00:36:12.688Z"
@@ -1556,7 +1556,7 @@
             "open_issues": 40,
             "owner": "bryankeller",
             "repo": "BLKFlexibleHeightBar",
-            "stars": 3065,
+            "stars": 3064,
             "topics": []
           },
           "first_seen": "2026-08-29T00:36:12.688Z"
@@ -1598,7 +1598,7 @@
             "open_issues": 3,
             "owner": "matteogobbi",
             "repo": "MGSpotyViewController",
-            "stars": 1012,
+            "stars": 1011,
             "topics": []
           },
           "first_seen": "2026-08-29T00:36:12.688Z"
@@ -1667,7 +1667,7 @@
             "open_issues": 131,
             "owner": "nnhubbard",
             "repo": "ZSSRichTextEditor",
-            "stars": 3781,
+            "stars": 3780,
             "topics": []
           },
           "first_seen": "2026-08-29T00:36:12.688Z"
@@ -1735,7 +1735,7 @@
             "open_issues": 79,
             "owner": "slackhq",
             "repo": "SlackTextViewController",
-            "stars": 8259,
+            "stars": 8258,
             "topics": []
           },
           "first_seen": "2026-08-29T00:36:12.688Z"
@@ -1756,7 +1756,7 @@
             "open_issues": 28,
             "owner": "jverdi",
             "repo": "JVFloatLabeledTextField",
-            "stars": 7135,
+            "stars": 7134,
             "topics": [
               "carthage",
               "floating-labels",
@@ -1824,7 +1824,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-14T20:21:30.359Z",
+    "last_updated": "2026-09-15T19:44:07.876Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome iOS UI/UX libraries",
@@ -1836,7 +1836,7 @@
       "open_issues": 12,
       "owner": "cjwirth",
       "repo": "awesome-ios-ui",
-      "stars": 11212,
+      "stars": 11213,
       "topics": []
     },
     "original_repository_sha": "2bb9ace467fc5048fbdbb52e8fb558cc3973a422",
