@@ -331,7 +331,7 @@
             "open_issues": 83,
             "owner": "Flipboard",
             "repo": "FLAnimatedImage",
-            "stars": 7945,
+            "stars": 7944,
             "topics": []
           },
           "first_seen": "2026-08-29T00:36:12.688Z"
@@ -400,7 +400,7 @@
             "open_issues": 37,
             "owner": "CosmicMind",
             "repo": "Material",
-            "stars": 12009,
+            "stars": 12010,
             "topics": [
               "animation",
               "card",
@@ -800,7 +800,7 @@
             "open_issues": 335,
             "owner": "mwaterfall",
             "repo": "MWPhotoBrowser",
-            "stars": 8704,
+            "stars": 8702,
             "topics": []
           },
           "first_seen": "2026-08-29T00:36:12.688Z"
@@ -936,7 +936,7 @@
             "open_issues": 94,
             "owner": "jdg",
             "repo": "MBProgressHUD",
-            "stars": 15919,
+            "stars": 15918,
             "topics": []
           },
           "first_seen": "2026-08-29T00:36:12.688Z"
@@ -1051,7 +1051,7 @@
             "open_issues": 1,
             "owner": "ninjaprox",
             "repo": "NVActivityIndicatorView",
-            "stars": 10709,
+            "stars": 10708,
             "topics": [
               "animation",
               "carthage",
@@ -1090,7 +1090,7 @@
             "language": "Objective-C",
             "license": "MIT",
             "last_commit": "2020-01-02T18:18:11Z",
-            "open_issues": 27,
+            "open_issues": 26,
             "owner": "coolbeet",
             "repo": "CBStoreHouseRefreshControl",
             "stars": 3883,
@@ -1204,7 +1204,7 @@
             "open_issues": 132,
             "owner": "romaonthego",
             "repo": "RESideMenu",
-            "stars": 7037,
+            "stars": 7036,
             "topics": []
           },
           "first_seen": "2026-08-29T00:36:12.688Z"
@@ -1667,7 +1667,7 @@
             "open_issues": 131,
             "owner": "nnhubbard",
             "repo": "ZSSRichTextEditor",
-            "stars": 3780,
+            "stars": 3779,
             "topics": []
           },
           "first_seen": "2026-08-29T00:36:12.688Z"
@@ -1756,7 +1756,7 @@
             "open_issues": 28,
             "owner": "jverdi",
             "repo": "JVFloatLabeledTextField",
-            "stars": 7134,
+            "stars": 7133,
             "topics": [
               "carthage",
               "floating-labels",
@@ -1785,7 +1785,7 @@
             "open_issues": 19,
             "owner": "skywinder",
             "repo": "ActionSheetPicker-3.0",
-            "stars": 3379,
+            "stars": 3378,
             "topics": [
               "actionsheet",
               "hacktoberfest",
@@ -1824,7 +1824,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T19:44:07.876Z",
+    "last_updated": "2026-09-16T19:36:54.450Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome iOS UI/UX libraries",
@@ -1836,7 +1836,7 @@
       "open_issues": 12,
       "owner": "cjwirth",
       "repo": "awesome-ios-ui",
-      "stars": 11213,
+      "stars": 11216,
       "topics": []
     },
     "original_repository_sha": "2bb9ace467fc5048fbdbb52e8fb558cc3973a422",
