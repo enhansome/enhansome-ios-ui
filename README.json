@@ -109,7 +109,7 @@
             "open_issues": 2,
             "owner": "marty-suzuki",
             "repo": "SAHistoryNavigationViewController",
-            "stars": 1554,
+            "stars": 1553,
             "topics": [
               "animation",
               "support-3d-touch",
@@ -251,7 +251,7 @@
             "open_issues": 503,
             "owner": "WenchaoD",
             "repo": "FSCalendar",
-            "stars": 10638,
+            "stars": 10637,
             "topics": [
               "calendar",
               "carthage",
@@ -301,7 +301,7 @@
             "open_issues": 118,
             "owner": "johnvuko",
             "repo": "JTCalendar",
-            "stars": 2743,
+            "stars": 2742,
             "topics": [
               "calendar",
               "ios"
@@ -400,7 +400,7 @@
             "open_issues": 37,
             "owner": "CosmicMind",
             "repo": "Material",
-            "stars": 12010,
+            "stars": 12011,
             "topics": [
               "animation",
               "card",
@@ -468,7 +468,7 @@
             "open_issues": 94,
             "owner": "KrauseFx",
             "repo": "TSMessages",
-            "stars": 4837,
+            "stars": 4838,
             "topics": [
               "cocoapods",
               "ios",
@@ -936,7 +936,7 @@
             "open_issues": 94,
             "owner": "jdg",
             "repo": "MBProgressHUD",
-            "stars": 15918,
+            "stars": 15917,
             "topics": []
           },
           "first_seen": "2026-08-29T00:36:12.688Z"
@@ -1371,7 +1371,7 @@
             "open_issues": 14,
             "owner": "Yalantis",
             "repo": "FoldingTabBar.iOS",
-            "stars": 3660,
+            "stars": 3661,
             "topics": [
               "animation",
               "carthage",
@@ -1535,7 +1535,7 @@
             "open_issues": 24,
             "owner": "CSStickyHeaderFlowLayout",
             "repo": "CSStickyHeaderFlowLayout",
-            "stars": 5029,
+            "stars": 5028,
             "topics": []
           },
           "first_seen": "2026-08-29T00:36:12.688Z"
@@ -1556,7 +1556,7 @@
             "open_issues": 40,
             "owner": "bryankeller",
             "repo": "BLKFlexibleHeightBar",
-            "stars": 3064,
+            "stars": 3063,
             "topics": []
           },
           "first_seen": "2026-08-29T00:36:12.688Z"
@@ -1735,7 +1735,7 @@
             "open_issues": 79,
             "owner": "slackhq",
             "repo": "SlackTextViewController",
-            "stars": 8258,
+            "stars": 8257,
             "topics": []
           },
           "first_seen": "2026-08-29T00:36:12.688Z"
@@ -1824,7 +1824,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-16T19:36:54.450Z",
+    "last_updated": "2026-09-17T19:46:20.207Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome iOS UI/UX libraries",
@@ -1836,7 +1836,7 @@
       "open_issues": 12,
       "owner": "cjwirth",
       "repo": "awesome-ios-ui",
-      "stars": 11216,
+      "stars": 11215,
       "topics": []
     },
     "original_repository_sha": "2bb9ace467fc5048fbdbb52e8fb558cc3973a422",
