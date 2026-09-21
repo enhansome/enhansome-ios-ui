@@ -400,7 +400,7 @@
             "open_issues": 37,
             "owner": "CosmicMind",
             "repo": "Material",
-            "stars": 12011,
+            "stars": 12012,
             "topics": [
               "animation",
               "card",
@@ -1225,7 +1225,7 @@
             "open_issues": 91,
             "owner": "romaonthego",
             "repo": "REFrostedViewController",
-            "stars": 2933,
+            "stars": 2932,
             "topics": []
           },
           "first_seen": "2026-08-29T00:36:12.688Z"
@@ -1709,7 +1709,7 @@
             "open_issues": 7,
             "owner": "raulriera",
             "repo": "TextFieldEffects",
-            "stars": 6012,
+            "stars": 6013,
             "topics": [
               "animation",
               "effects",
@@ -1824,7 +1824,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T18:55:01.542Z",
+    "last_updated": "2026-09-21T20:28:41.895Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome iOS UI/UX libraries",
@@ -1833,10 +1833,10 @@
       "language": null,
       "license": null,
       "last_commit": "2018-03-08T08:57:40Z",
-      "open_issues": 12,
+      "open_issues": 14,
       "owner": "cjwirth",
       "repo": "awesome-ios-ui",
-      "stars": 11218,
+      "stars": 11217,
       "topics": []
     },
     "original_repository_sha": "2bb9ace467fc5048fbdbb52e8fb558cc3973a422",
