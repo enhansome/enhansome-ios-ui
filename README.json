@@ -400,7 +400,7 @@
             "open_issues": 37,
             "owner": "CosmicMind",
             "repo": "Material",
-            "stars": 12011,
+            "stars": 12013,
             "topics": [
               "animation",
               "card",
@@ -1201,7 +1201,7 @@
             "language": "Objective-C",
             "license": "MIT",
             "last_commit": "2017-12-05T17:29:00Z",
-            "open_issues": 132,
+            "open_issues": 131,
             "owner": "romaonthego",
             "repo": "RESideMenu",
             "stars": 7035,
@@ -1598,7 +1598,7 @@
             "open_issues": 3,
             "owner": "matteogobbi",
             "repo": "MGSpotyViewController",
-            "stars": 1011,
+            "stars": 1010,
             "topics": []
           },
           "first_seen": "2026-08-29T00:36:12.688Z"
@@ -1824,7 +1824,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-22T19:47:29.869Z",
+    "last_updated": "2026-09-23T19:43:43.076Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome iOS UI/UX libraries",
