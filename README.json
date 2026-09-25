@@ -821,7 +821,7 @@
             "open_issues": 50,
             "owner": "0xced",
             "repo": "XCDYouTubeKit",
-            "stars": 2923,
+            "stars": 2922,
             "topics": [
               "player",
               "video",
@@ -1785,7 +1785,7 @@
             "open_issues": 19,
             "owner": "skywinder",
             "repo": "ActionSheetPicker-3.0",
-            "stars": 3377,
+            "stars": 3376,
             "topics": [
               "actionsheet",
               "hacktoberfest",
@@ -1824,7 +1824,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-24T20:02:27.873Z",
+    "last_updated": "2026-09-25T20:03:57.971Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome iOS UI/UX libraries",
