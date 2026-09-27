@@ -182,7 +182,7 @@
             "open_issues": 3,
             "owner": "cwRichardKim",
             "repo": "RKNotificationHub",
-            "stars": 3028,
+            "stars": 3027,
             "topics": []
           },
           "first_seen": "2026-08-29T00:36:12.688Z"
@@ -400,7 +400,7 @@
             "open_issues": 37,
             "owner": "CosmicMind",
             "repo": "Material",
-            "stars": 12013,
+            "stars": 12015,
             "topics": [
               "animation",
               "card",
@@ -468,7 +468,7 @@
             "open_issues": 93,
             "owner": "KrauseFx",
             "repo": "TSMessages",
-            "stars": 4838,
+            "stars": 4837,
             "topics": [
               "cocoapods",
               "ios",
@@ -496,7 +496,7 @@
             "open_issues": 69,
             "owner": "cruffenach",
             "repo": "CRToast",
-            "stars": 4123,
+            "stars": 4122,
             "topics": []
           },
           "first_seen": "2026-08-29T00:36:12.688Z"
@@ -538,7 +538,7 @@
             "open_issues": 10,
             "owner": "cwRichardKim",
             "repo": "RKDropdownAlert",
-            "stars": 1528,
+            "stars": 1527,
             "topics": []
           },
           "first_seen": "2026-08-29T00:36:12.688Z"
@@ -800,7 +800,7 @@
             "open_issues": 335,
             "owner": "mwaterfall",
             "repo": "MWPhotoBrowser",
-            "stars": 8702,
+            "stars": 8701,
             "topics": []
           },
           "first_seen": "2026-08-29T00:36:12.688Z"
@@ -846,7 +846,7 @@
             "open_issues": 66,
             "owner": "mariohahn",
             "repo": "MHVideoPhotoGallery",
-            "stars": 1945,
+            "stars": 1944,
             "topics": []
           },
           "first_seen": "2026-08-29T00:36:12.688Z"
@@ -867,7 +867,7 @@
             "open_issues": 19,
             "owner": "EddyBorja",
             "repo": "EBPhotoPages",
-            "stars": 1622,
+            "stars": 1621,
             "topics": []
           },
           "first_seen": "2026-08-29T00:36:12.688Z"
@@ -936,7 +936,7 @@
             "open_issues": 94,
             "owner": "jdg",
             "repo": "MBProgressHUD",
-            "stars": 15914,
+            "stars": 15913,
             "topics": []
           },
           "first_seen": "2026-08-29T00:36:12.688Z"
@@ -978,7 +978,7 @@
             "open_issues": 48,
             "owner": "Marxon13",
             "repo": "M13ProgressSuite",
-            "stars": 3895,
+            "stars": 3894,
             "topics": []
           },
           "first_seen": "2026-08-29T00:36:12.688Z"
@@ -1204,7 +1204,7 @@
             "open_issues": 131,
             "owner": "romaonthego",
             "repo": "RESideMenu",
-            "stars": 7035,
+            "stars": 7034,
             "topics": []
           },
           "first_seen": "2026-08-29T00:36:12.688Z"
@@ -1225,7 +1225,7 @@
             "open_issues": 91,
             "owner": "romaonthego",
             "repo": "REFrostedViewController",
-            "stars": 2932,
+            "stars": 2931,
             "topics": []
           },
           "first_seen": "2026-08-29T00:36:12.688Z"
@@ -1472,7 +1472,7 @@
             "open_issues": 105,
             "owner": "Augustyniak",
             "repo": "RATreeView",
-            "stars": 2478,
+            "stars": 2477,
             "topics": []
           },
           "first_seen": "2026-08-29T00:36:12.688Z"
@@ -1535,7 +1535,7 @@
             "open_issues": 24,
             "owner": "CSStickyHeaderFlowLayout",
             "repo": "CSStickyHeaderFlowLayout",
-            "stars": 5027,
+            "stars": 5026,
             "topics": []
           },
           "first_seen": "2026-08-29T00:36:12.688Z"
@@ -1556,7 +1556,7 @@
             "open_issues": 40,
             "owner": "bryankeller",
             "repo": "BLKFlexibleHeightBar",
-            "stars": 3063,
+            "stars": 3062,
             "topics": []
           },
           "first_seen": "2026-08-29T00:36:12.688Z"
@@ -1667,7 +1667,7 @@
             "open_issues": 131,
             "owner": "nnhubbard",
             "repo": "ZSSRichTextEditor",
-            "stars": 3779,
+            "stars": 3778,
             "topics": []
           },
           "first_seen": "2026-08-29T00:36:12.688Z"
@@ -1688,7 +1688,7 @@
             "open_issues": 112,
             "owner": "cjwirth",
             "repo": "RichEditorView",
-            "stars": 1892,
+            "stars": 1891,
             "topics": []
           },
           "first_seen": "2026-08-29T00:36:12.688Z"
@@ -1735,7 +1735,7 @@
             "open_issues": 79,
             "owner": "slackhq",
             "repo": "SlackTextViewController",
-            "stars": 8256,
+            "stars": 8255,
             "topics": []
           },
           "first_seen": "2026-08-29T00:36:12.688Z"
@@ -1824,7 +1824,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-26T19:16:16.119Z",
+    "last_updated": "2026-09-27T19:48:34.131Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome iOS UI/UX libraries",
@@ -1836,7 +1836,7 @@
       "open_issues": 14,
       "owner": "cjwirth",
       "repo": "awesome-ios-ui",
-      "stars": 11218,
+      "stars": 11217,
       "topics": []
     },
     "original_repository_sha": "2bb9ace467fc5048fbdbb52e8fb558cc3973a422",
