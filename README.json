@@ -134,7 +134,7 @@
             "open_issues": 2,
             "owner": "dotintent",
             "repo": "WobbleView",
-            "stars": 2168,
+            "stars": 2167,
             "topics": []
           },
           "first_seen": "2026-08-29T00:36:12.688Z"
@@ -155,7 +155,7 @@
             "open_issues": 13,
             "owner": "callumboddy",
             "repo": "CBZSplashView",
-            "stars": 1475,
+            "stars": 1476,
             "topics": []
           },
           "first_seen": "2026-08-29T00:36:12.688Z"
@@ -203,7 +203,7 @@
             "open_issues": 10,
             "owner": "TanguyAladenise",
             "repo": "BBBadgeBarButtonItem",
-            "stars": 949,
+            "stars": 948,
             "topics": []
           },
           "first_seen": "2026-08-29T00:36:12.688Z"
@@ -251,7 +251,7 @@
             "open_issues": 503,
             "owner": "WenchaoD",
             "repo": "FSCalendar",
-            "stars": 10636,
+            "stars": 10637,
             "topics": [
               "calendar",
               "carthage",
@@ -301,7 +301,7 @@
             "open_issues": 118,
             "owner": "johnvuko",
             "repo": "JTCalendar",
-            "stars": 2742,
+            "stars": 2741,
             "topics": [
               "calendar",
               "ios"
@@ -400,7 +400,7 @@
             "open_issues": 37,
             "owner": "CosmicMind",
             "repo": "Material",
-            "stars": 12015,
+            "stars": 12016,
             "topics": [
               "animation",
               "card",
@@ -496,7 +496,7 @@
             "open_issues": 69,
             "owner": "cruffenach",
             "repo": "CRToast",
-            "stars": 4122,
+            "stars": 4121,
             "topics": []
           },
           "first_seen": "2026-08-29T00:36:12.688Z"
@@ -846,7 +846,7 @@
             "open_issues": 66,
             "owner": "mariohahn",
             "repo": "MHVideoPhotoGallery",
-            "stars": 1944,
+            "stars": 1943,
             "topics": []
           },
           "first_seen": "2026-08-29T00:36:12.688Z"
@@ -1535,7 +1535,7 @@
             "open_issues": 24,
             "owner": "CSStickyHeaderFlowLayout",
             "repo": "CSStickyHeaderFlowLayout",
-            "stars": 5026,
+            "stars": 5025,
             "topics": []
           },
           "first_seen": "2026-08-29T00:36:12.688Z"
@@ -1709,7 +1709,7 @@
             "open_issues": 7,
             "owner": "raulriera",
             "repo": "TextFieldEffects",
-            "stars": 6014,
+            "stars": 6015,
             "topics": [
               "animation",
               "effects",
@@ -1735,7 +1735,7 @@
             "open_issues": 79,
             "owner": "slackhq",
             "repo": "SlackTextViewController",
-            "stars": 8255,
+            "stars": 8254,
             "topics": []
           },
           "first_seen": "2026-08-29T00:36:12.688Z"
@@ -1785,7 +1785,7 @@
             "open_issues": 19,
             "owner": "skywinder",
             "repo": "ActionSheetPicker-3.0",
-            "stars": 3376,
+            "stars": 3375,
             "topics": [
               "actionsheet",
               "hacktoberfest",
@@ -1824,7 +1824,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-27T19:48:34.131Z",
+    "last_updated": "2026-09-28T22:10:06.079Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome iOS UI/UX libraries",
