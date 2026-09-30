@@ -400,7 +400,7 @@
             "open_issues": 37,
             "owner": "CosmicMind",
             "repo": "Material",
-            "stars": 12017,
+            "stars": 12016,
             "topics": [
               "animation",
               "card",
@@ -936,7 +936,7 @@
             "open_issues": 94,
             "owner": "jdg",
             "repo": "MBProgressHUD",
-            "stars": 15913,
+            "stars": 15909,
             "topics": []
           },
           "first_seen": "2026-08-29T00:36:12.688Z"
@@ -1051,7 +1051,7 @@
             "open_issues": 1,
             "owner": "ninjaprox",
             "repo": "NVActivityIndicatorView",
-            "stars": 10709,
+            "stars": 10706,
             "topics": [
               "animation",
               "carthage",
@@ -1709,7 +1709,7 @@
             "open_issues": 7,
             "owner": "raulriera",
             "repo": "TextFieldEffects",
-            "stars": 6015,
+            "stars": 6014,
             "topics": [
               "animation",
               "effects",
@@ -1814,7 +1814,7 @@
             "open_issues": 5,
             "owner": "hanton",
             "repo": "HTYTextField",
-            "stars": 308,
+            "stars": 307,
             "topics": []
           },
           "first_seen": "2026-08-29T00:36:12.688Z"
@@ -1824,7 +1824,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-29T20:55:11.145Z",
+    "last_updated": "2026-09-30T20:53:09.493Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome iOS UI/UX libraries",
