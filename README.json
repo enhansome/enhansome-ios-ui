@@ -182,7 +182,7 @@
             "open_issues": 3,
             "owner": "cwRichardKim",
             "repo": "RKNotificationHub",
-            "stars": 3027,
+            "stars": 3026,
             "topics": []
           },
           "first_seen": "2026-08-29T00:36:12.688Z"
@@ -331,7 +331,7 @@
             "open_issues": 83,
             "owner": "Flipboard",
             "repo": "FLAnimatedImage",
-            "stars": 7943,
+            "stars": 7942,
             "topics": []
           },
           "first_seen": "2026-08-29T00:36:12.688Z"
@@ -352,7 +352,7 @@
             "open_issues": 13,
             "owner": "shu223",
             "repo": "PulsingHalo",
-            "stars": 1783,
+            "stars": 1782,
             "topics": []
           },
           "first_seen": "2026-08-29T00:36:12.688Z"
@@ -517,7 +517,7 @@
             "open_issues": 16,
             "owner": "terryworona",
             "repo": "TWMessageBarManager",
-            "stars": 1752,
+            "stars": 1751,
             "topics": []
           },
           "first_seen": "2026-08-29T00:36:12.688Z"
@@ -613,7 +613,7 @@
             "open_issues": 0,
             "owner": "matteogobbi",
             "repo": "MGFashionMenuView",
-            "stars": 337,
+            "stars": 338,
             "topics": []
           },
           "first_seen": "2026-08-29T00:36:12.688Z"
@@ -655,7 +655,7 @@
             "open_issues": 10,
             "owner": "m1entus",
             "repo": "MZFormSheetController",
-            "stars": 2517,
+            "stars": 2516,
             "topics": []
           },
           "first_seen": "2026-08-29T00:36:12.688Z"
@@ -731,7 +731,7 @@
             "open_issues": 14,
             "owner": "IFTTT",
             "repo": "JazzHands",
-            "stars": 6353,
+            "stars": 6352,
             "topics": []
           },
           "first_seen": "2026-08-29T00:36:12.688Z"
@@ -773,7 +773,7 @@
             "open_issues": 45,
             "owner": "mamaral",
             "repo": "Onboard",
-            "stars": 6557,
+            "stars": 6550,
             "topics": []
           },
           "first_seen": "2026-08-29T00:36:12.688Z"
@@ -1556,7 +1556,7 @@
             "open_issues": 40,
             "owner": "bryankeller",
             "repo": "BLKFlexibleHeightBar",
-            "stars": 3062,
+            "stars": 3056,
             "topics": []
           },
           "first_seen": "2026-08-29T00:36:12.688Z"
@@ -1709,7 +1709,7 @@
             "open_issues": 7,
             "owner": "raulriera",
             "repo": "TextFieldEffects",
-            "stars": 6014,
+            "stars": 6013,
             "topics": [
               "animation",
               "effects",
@@ -1756,7 +1756,7 @@
             "open_issues": 28,
             "owner": "jverdi",
             "repo": "JVFloatLabeledTextField",
-            "stars": 7133,
+            "stars": 7132,
             "topics": [
               "carthage",
               "floating-labels",
@@ -1824,7 +1824,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-30T20:53:09.493Z",
+    "last_updated": "2026-10-01T21:07:18.650Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome iOS UI/UX libraries",
@@ -1836,7 +1836,7 @@
       "open_issues": 14,
       "owner": "cjwirth",
       "repo": "awesome-ios-ui",
-      "stars": 11217,
+      "stars": 11218,
       "topics": []
     },
     "original_repository_sha": "2bb9ace467fc5048fbdbb52e8fb558cc3973a422",
