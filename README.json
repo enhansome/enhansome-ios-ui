@@ -331,7 +331,7 @@
             "open_issues": 83,
             "owner": "Flipboard",
             "repo": "FLAnimatedImage",
-            "stars": 7940,
+            "stars": 7941,
             "topics": []
           },
           "first_seen": "2026-08-29T00:36:12.688Z"
@@ -1824,7 +1824,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T19:18:42.784Z",
+    "last_updated": "2026-10-04T19:42:58.379Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome iOS UI/UX libraries",
