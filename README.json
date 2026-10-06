@@ -182,7 +182,7 @@
             "open_issues": 3,
             "owner": "cwRichardKim",
             "repo": "RKNotificationHub",
-            "stars": 3025,
+            "stars": 3024,
             "topics": []
           },
           "first_seen": "2026-08-29T00:36:12.688Z"
@@ -224,7 +224,7 @@
             "open_issues": 8,
             "owner": "JaviSoto",
             "repo": "JSBadgeView",
-            "stars": 1278,
+            "stars": 1277,
             "topics": []
           },
           "first_seen": "2026-08-29T00:36:12.688Z"
@@ -251,7 +251,7 @@
             "open_issues": 503,
             "owner": "WenchaoD",
             "repo": "FSCalendar",
-            "stars": 10634,
+            "stars": 10633,
             "topics": [
               "calendar",
               "carthage",
@@ -400,7 +400,7 @@
             "open_issues": 37,
             "owner": "CosmicMind",
             "repo": "Material",
-            "stars": 12016,
+            "stars": 12013,
             "topics": [
               "animation",
               "card",
@@ -468,7 +468,7 @@
             "open_issues": 93,
             "owner": "KrauseFx",
             "repo": "TSMessages",
-            "stars": 4837,
+            "stars": 4836,
             "topics": [
               "cocoapods",
               "ios",
@@ -517,7 +517,7 @@
             "open_issues": 16,
             "owner": "terryworona",
             "repo": "TWMessageBarManager",
-            "stars": 1751,
+            "stars": 1750,
             "topics": []
           },
           "first_seen": "2026-08-29T00:36:12.688Z"
@@ -538,7 +538,7 @@
             "open_issues": 10,
             "owner": "cwRichardKim",
             "repo": "RKDropdownAlert",
-            "stars": 1527,
+            "stars": 1526,
             "topics": []
           },
           "first_seen": "2026-08-29T00:36:12.688Z"
@@ -800,7 +800,7 @@
             "open_issues": 335,
             "owner": "mwaterfall",
             "repo": "MWPhotoBrowser",
-            "stars": 8698,
+            "stars": 8697,
             "topics": []
           },
           "first_seen": "2026-08-29T00:36:12.688Z"
@@ -936,7 +936,7 @@
             "open_issues": 94,
             "owner": "jdg",
             "repo": "MBProgressHUD",
-            "stars": 15908,
+            "stars": 15905,
             "topics": []
           },
           "first_seen": "2026-08-29T00:36:12.688Z"
@@ -1051,7 +1051,7 @@
             "open_issues": 1,
             "owner": "ninjaprox",
             "repo": "NVActivityIndicatorView",
-            "stars": 10705,
+            "stars": 10703,
             "topics": [
               "animation",
               "carthage",
@@ -1225,7 +1225,7 @@
             "open_issues": 91,
             "owner": "romaonthego",
             "repo": "REFrostedViewController",
-            "stars": 2931,
+            "stars": 2930,
             "topics": []
           },
           "first_seen": "2026-08-29T00:36:12.688Z"
@@ -1709,7 +1709,7 @@
             "open_issues": 7,
             "owner": "raulriera",
             "repo": "TextFieldEffects",
-            "stars": 6011,
+            "stars": 6009,
             "topics": [
               "animation",
               "effects",
@@ -1735,7 +1735,7 @@
             "open_issues": 79,
             "owner": "slackhq",
             "repo": "SlackTextViewController",
-            "stars": 8254,
+            "stars": 8253,
             "topics": []
           },
           "first_seen": "2026-08-29T00:36:12.688Z"
@@ -1824,7 +1824,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:42:02.158Z",
+    "last_updated": "2026-10-06T21:04:28.769Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome iOS UI/UX libraries",
@@ -1836,7 +1836,7 @@
       "open_issues": 14,
       "owner": "cjwirth",
       "repo": "awesome-ios-ui",
-      "stars": 11218,
+      "stars": 11216,
       "topics": []
     },
     "original_repository_sha": "2bb9ace467fc5048fbdbb52e8fb558cc3973a422",
