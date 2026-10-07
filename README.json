@@ -251,7 +251,7 @@
             "open_issues": 503,
             "owner": "WenchaoD",
             "repo": "FSCalendar",
-            "stars": 10633,
+            "stars": 10631,
             "topics": [
               "calendar",
               "carthage",
@@ -468,7 +468,7 @@
             "open_issues": 93,
             "owner": "KrauseFx",
             "repo": "TSMessages",
-            "stars": 4836,
+            "stars": 4837,
             "topics": [
               "cocoapods",
               "ios",
@@ -1051,7 +1051,7 @@
             "open_issues": 1,
             "owner": "ninjaprox",
             "repo": "NVActivityIndicatorView",
-            "stars": 10703,
+            "stars": 10702,
             "topics": [
               "animation",
               "carthage",
@@ -1824,7 +1824,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T21:04:28.769Z",
+    "last_updated": "2026-10-07T21:23:45.858Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome iOS UI/UX libraries",
