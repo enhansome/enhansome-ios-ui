@@ -182,7 +182,7 @@
             "open_issues": 3,
             "owner": "cwRichardKim",
             "repo": "RKNotificationHub",
-            "stars": 3024,
+            "stars": 3022,
             "topics": []
           },
           "first_seen": "2026-08-29T00:36:12.688Z"
@@ -821,7 +821,7 @@
             "open_issues": 50,
             "owner": "0xced",
             "repo": "XCDYouTubeKit",
-            "stars": 2922,
+            "stars": 2921,
             "topics": [
               "player",
               "video",
@@ -936,7 +936,7 @@
             "open_issues": 94,
             "owner": "jdg",
             "repo": "MBProgressHUD",
-            "stars": 15905,
+            "stars": 15906,
             "topics": []
           },
           "first_seen": "2026-08-29T00:36:12.688Z"
@@ -1020,7 +1020,7 @@
             "open_issues": 2,
             "owner": "skywinder",
             "repo": "GaugeKit",
-            "stars": 1022,
+            "stars": 1023,
             "topics": [
               "carthage",
               "cocoapods",
@@ -1824,7 +1824,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T21:23:45.858Z",
+    "last_updated": "2026-10-08T21:23:57.223Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome iOS UI/UX libraries",
@@ -1833,7 +1833,7 @@
       "language": null,
       "license": null,
       "last_commit": "2018-03-08T08:57:40Z",
-      "open_issues": 14,
+      "open_issues": 12,
       "owner": "cjwirth",
       "repo": "awesome-ios-ui",
       "stars": 11216,
