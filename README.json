@@ -251,7 +251,7 @@
             "open_issues": 503,
             "owner": "WenchaoD",
             "repo": "FSCalendar",
-            "stars": 10631,
+            "stars": 10630,
             "topics": [
               "calendar",
               "carthage",
@@ -331,7 +331,7 @@
             "open_issues": 83,
             "owner": "Flipboard",
             "repo": "FLAnimatedImage",
-            "stars": 7941,
+            "stars": 7939,
             "topics": []
           },
           "first_seen": "2026-08-29T00:36:12.688Z"
@@ -936,7 +936,7 @@
             "open_issues": 94,
             "owner": "jdg",
             "repo": "MBProgressHUD",
-            "stars": 15906,
+            "stars": 15907,
             "topics": []
           },
           "first_seen": "2026-08-29T00:36:12.688Z"
@@ -957,7 +957,7 @@
             "open_issues": 37,
             "owner": "mrackwitz",
             "repo": "MRProgress",
-            "stars": 2524,
+            "stars": 2522,
             "topics": []
           },
           "first_seen": "2026-08-29T00:36:12.688Z"
@@ -1093,7 +1093,7 @@
             "open_issues": 26,
             "owner": "coolbeet",
             "repo": "CBStoreHouseRefreshControl",
-            "stars": 3882,
+            "stars": 3881,
             "topics": []
           },
           "first_seen": "2026-08-29T00:36:12.688Z"
@@ -1735,7 +1735,7 @@
             "open_issues": 79,
             "owner": "slackhq",
             "repo": "SlackTextViewController",
-            "stars": 8253,
+            "stars": 8252,
             "topics": []
           },
           "first_seen": "2026-08-29T00:36:12.688Z"
@@ -1824,7 +1824,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T21:23:57.223Z",
+    "last_updated": "2026-10-09T21:02:41.215Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome iOS UI/UX libraries",
@@ -1836,7 +1836,7 @@
       "open_issues": 12,
       "owner": "cjwirth",
       "repo": "awesome-ios-ui",
-      "stars": 11216,
+      "stars": 11217,
       "topics": []
     },
     "original_repository_sha": "2bb9ace467fc5048fbdbb52e8fb558cc3973a422",
