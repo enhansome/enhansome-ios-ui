@@ -203,7 +203,7 @@
             "open_issues": 10,
             "owner": "TanguyAladenise",
             "repo": "BBBadgeBarButtonItem",
-            "stars": 947,
+            "stars": 946,
             "topics": []
           },
           "first_seen": "2026-08-29T00:36:12.688Z"
@@ -331,7 +331,7 @@
             "open_issues": 83,
             "owner": "Flipboard",
             "repo": "FLAnimatedImage",
-            "stars": 7939,
+            "stars": 7938,
             "topics": []
           },
           "first_seen": "2026-08-29T00:36:12.688Z"
@@ -400,7 +400,7 @@
             "open_issues": 37,
             "owner": "CosmicMind",
             "repo": "Material",
-            "stars": 12015,
+            "stars": 12014,
             "topics": [
               "animation",
               "card",
@@ -585,7 +585,7 @@
             "open_issues": 3,
             "owner": "atljeremy",
             "repo": "JFMinimalNotifications",
-            "stars": 929,
+            "stars": 928,
             "topics": [
               "customizable",
               "ios",
@@ -697,7 +697,7 @@
             "open_issues": 0,
             "owner": "LeoNatan",
             "repo": "LNNotificationsUI",
-            "stars": 783,
+            "stars": 782,
             "topics": [
               "cocoa-touch",
               "ios",
@@ -800,7 +800,7 @@
             "open_issues": 335,
             "owner": "mwaterfall",
             "repo": "MWPhotoBrowser",
-            "stars": 8696,
+            "stars": 8695,
             "topics": []
           },
           "first_seen": "2026-08-29T00:36:12.688Z"
@@ -1051,7 +1051,7 @@
             "open_issues": 1,
             "owner": "ninjaprox",
             "repo": "NVActivityIndicatorView",
-            "stars": 10701,
+            "stars": 10700,
             "topics": [
               "animation",
               "carthage",
@@ -1535,7 +1535,7 @@
             "open_issues": 24,
             "owner": "CSStickyHeaderFlowLayout",
             "repo": "CSStickyHeaderFlowLayout",
-            "stars": 5022,
+            "stars": 5021,
             "topics": []
           },
           "first_seen": "2026-08-29T00:36:12.688Z"
@@ -1824,7 +1824,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-11T20:24:39.445Z",
+    "last_updated": "2026-10-12T23:05:25.133Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome iOS UI/UX libraries",
@@ -1836,7 +1836,7 @@
       "open_issues": 12,
       "owner": "cjwirth",
       "repo": "awesome-ios-ui",
-      "stars": 11217,
+      "stars": 11216,
       "topics": []
     },
     "original_repository_sha": "2bb9ace467fc5048fbdbb52e8fb558cc3973a422",
