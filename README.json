@@ -182,7 +182,7 @@
             "open_issues": 3,
             "owner": "cwRichardKim",
             "repo": "RKNotificationHub",
-            "stars": 3022,
+            "stars": 3023,
             "topics": []
           },
           "first_seen": "2026-08-29T00:36:12.688Z"
@@ -331,7 +331,7 @@
             "open_issues": 83,
             "owner": "Flipboard",
             "repo": "FLAnimatedImage",
-            "stars": 7938,
+            "stars": 7939,
             "topics": []
           },
           "first_seen": "2026-08-29T00:36:12.688Z"
@@ -400,7 +400,7 @@
             "open_issues": 37,
             "owner": "CosmicMind",
             "repo": "Material",
-            "stars": 12014,
+            "stars": 12013,
             "topics": [
               "animation",
               "card",
@@ -936,7 +936,7 @@
             "open_issues": 94,
             "owner": "jdg",
             "repo": "MBProgressHUD",
-            "stars": 15907,
+            "stars": 15906,
             "topics": []
           },
           "first_seen": "2026-08-29T00:36:12.688Z"
@@ -1051,7 +1051,7 @@
             "open_issues": 1,
             "owner": "ninjaprox",
             "repo": "NVActivityIndicatorView",
-            "stars": 10700,
+            "stars": 10701,
             "topics": [
               "animation",
               "carthage",
@@ -1093,7 +1093,7 @@
             "open_issues": 26,
             "owner": "coolbeet",
             "repo": "CBStoreHouseRefreshControl",
-            "stars": 3880,
+            "stars": 3881,
             "topics": []
           },
           "first_seen": "2026-08-29T00:36:12.688Z"
@@ -1756,7 +1756,7 @@
             "open_issues": 28,
             "owner": "jverdi",
             "repo": "JVFloatLabeledTextField",
-            "stars": 7132,
+            "stars": 7131,
             "topics": [
               "carthage",
               "floating-labels",
@@ -1824,7 +1824,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-12T23:05:25.133Z",
+    "last_updated": "2026-10-13T21:21:42.441Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome iOS UI/UX libraries",
@@ -1836,7 +1836,7 @@
       "open_issues": 12,
       "owner": "cjwirth",
       "repo": "awesome-ios-ui",
-      "stars": 11216,
+      "stars": 11218,
       "topics": []
     },
     "original_repository_sha": "2bb9ace467fc5048fbdbb52e8fb558cc3973a422",
