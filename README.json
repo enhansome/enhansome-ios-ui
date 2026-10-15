@@ -251,7 +251,7 @@
             "open_issues": 503,
             "owner": "WenchaoD",
             "repo": "FSCalendar",
-            "stars": 10629,
+            "stars": 10628,
             "topics": [
               "calendar",
               "carthage",
@@ -301,7 +301,7 @@
             "open_issues": 118,
             "owner": "johnvuko",
             "repo": "JTCalendar",
-            "stars": 2739,
+            "stars": 2738,
             "topics": [
               "calendar",
               "ios"
@@ -496,7 +496,7 @@
             "open_issues": 69,
             "owner": "cruffenach",
             "repo": "CRToast",
-            "stars": 4120,
+            "stars": 4119,
             "topics": []
           },
           "first_seen": "2026-08-29T00:36:12.688Z"
@@ -538,7 +538,7 @@
             "open_issues": 10,
             "owner": "cwRichardKim",
             "repo": "RKDropdownAlert",
-            "stars": 1525,
+            "stars": 1524,
             "topics": []
           },
           "first_seen": "2026-08-29T00:36:12.688Z"
@@ -559,7 +559,7 @@
             "open_issues": 2,
             "owner": "KyoheiG3",
             "repo": "SimpleAlert",
-            "stars": 394,
+            "stars": 393,
             "topics": [
               "customizable",
               "ios",
@@ -800,7 +800,7 @@
             "open_issues": 335,
             "owner": "mwaterfall",
             "repo": "MWPhotoBrowser",
-            "stars": 8695,
+            "stars": 8694,
             "topics": []
           },
           "first_seen": "2026-08-29T00:36:12.688Z"
@@ -936,7 +936,7 @@
             "open_issues": 94,
             "owner": "jdg",
             "repo": "MBProgressHUD",
-            "stars": 15904,
+            "stars": 15903,
             "topics": []
           },
           "first_seen": "2026-08-29T00:36:12.688Z"
@@ -1735,7 +1735,7 @@
             "open_issues": 79,
             "owner": "slackhq",
             "repo": "SlackTextViewController",
-            "stars": 8250,
+            "stars": 8249,
             "topics": []
           },
           "first_seen": "2026-08-29T00:36:12.688Z"
@@ -1824,7 +1824,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-14T20:15:24.826Z",
+    "last_updated": "2026-10-15T19:56:28.061Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome iOS UI/UX libraries",
