@@ -936,7 +936,7 @@
             "open_issues": 94,
             "owner": "jdg",
             "repo": "MBProgressHUD",
-            "stars": 15903,
+            "stars": 15900,
             "topics": []
           },
           "first_seen": "2026-08-29T00:36:12.688Z"
@@ -1114,7 +1114,7 @@
             "open_issues": 3,
             "owner": "uzysjung",
             "repo": "UzysAnimatedGifPullToRefresh",
-            "stars": 1394,
+            "stars": 1393,
             "topics": []
           },
           "first_seen": "2026-08-29T00:36:12.688Z"
@@ -1824,7 +1824,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-15T19:56:28.061Z",
+    "last_updated": "2026-10-16T19:36:10.347Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome iOS UI/UX libraries",
