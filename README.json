@@ -400,7 +400,7 @@
             "open_issues": 37,
             "owner": "CosmicMind",
             "repo": "Material",
-            "stars": 12014,
+            "stars": 12015,
             "topics": [
               "animation",
               "card",
@@ -773,7 +773,7 @@
             "open_issues": 45,
             "owner": "mamaral",
             "repo": "Onboard",
-            "stars": 6548,
+            "stars": 6547,
             "topics": []
           },
           "first_seen": "2026-08-29T00:36:12.688Z"
@@ -800,7 +800,7 @@
             "open_issues": 335,
             "owner": "mwaterfall",
             "repo": "MWPhotoBrowser",
-            "stars": 8694,
+            "stars": 8693,
             "topics": []
           },
           "first_seen": "2026-08-29T00:36:12.688Z"
@@ -936,7 +936,7 @@
             "open_issues": 94,
             "owner": "jdg",
             "repo": "MBProgressHUD",
-            "stars": 15900,
+            "stars": 15899,
             "topics": []
           },
           "first_seen": "2026-08-29T00:36:12.688Z"
@@ -1371,7 +1371,7 @@
             "open_issues": 14,
             "owner": "Yalantis",
             "repo": "FoldingTabBar.iOS",
-            "stars": 3660,
+            "stars": 3661,
             "topics": [
               "animation",
               "carthage",
@@ -1756,7 +1756,7 @@
             "open_issues": 28,
             "owner": "jverdi",
             "repo": "JVFloatLabeledTextField",
-            "stars": 7131,
+            "stars": 7130,
             "topics": [
               "carthage",
               "floating-labels",
@@ -1824,7 +1824,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T19:36:10.347Z",
+    "last_updated": "2026-10-17T18:36:30.226Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome iOS UI/UX libraries",
@@ -1836,7 +1836,7 @@
       "open_issues": 14,
       "owner": "cjwirth",
       "repo": "awesome-ios-ui",
-      "stars": 11221,
+      "stars": 11220,
       "topics": []
     },
     "original_repository_sha": "2bb9ace467fc5048fbdbb52e8fb558cc3973a422",
