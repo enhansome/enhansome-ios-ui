@@ -50,7 +50,7 @@ Found a UI/UX library that you think is *awesome*?? Want to share it with the wo
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------- |
 | [FSCalendar](https://github.com/WenchaoIOS/FSCalendar) ⭐ 10,628 \| 🐛 503 \| 🌐 Objective-C \| 📅 2024-08-10 <br> [![](http://gh-btns.cjwirth.com/stars/WenchaoIOS/FSCalendar)](https://github.com/WenchaoIOS/FSCalendar/stargazers) ⭐ 10,628 \| 🐛 503 \| 🌐 Objective-C \| 📅 2024-08-10 <br> Language: Obj-C <br> License: [MIT][MIT]                          | <img src="/assets/FSCalendar1.jpg">                                     |
 | [GLCalendarView](https://github.com/Glow-Inc/GLCalendarView) ⭐ 851 \| 🐛 22 \| 🌐 Objective-C \| 📅 2022-06-09 <br> [![](http://gh-btns.cjwirth.com/stars/Glow-Inc/GLCalendarView)](https://github.com/Glow-Inc/GLCalendarView/stargazers) ⭐ 851 \| 🐛 22 \| 🌐 Objective-C \| 📅 2022-06-09 <br> Language: Obj-C <br> License: [MIT][MIT]                        | <img src="/assets/GLCalendarView1.gif">                                 |
-| [JTCalendar](https://github.com/jonathantribouharet/JTCalendar) ⭐ 2,738 \| 🐛 118 \| 🌐 Objective-C \| 📅 2021-12-06 <br> [![](http://gh-btns.cjwirth.com/stars/jonathantribouharet/JTCalendar)](https://github.com/jonathantribouharet/JTCalendar/stargazers) ⭐ 2,738 \| 🐛 118 \| 🌐 Objective-C \| 📅 2021-12-06 <br> Language: Obj-C <br> License: [MIT][MIT] | <img src="/assets/JTCalendar1.gif"> <img src="/assets/JTCalendar2.png"> |
+| [JTCalendar](https://github.com/jonathantribouharet/JTCalendar) ⭐ 2,738 \| 🐛 117 \| 🌐 Objective-C \| 📅 2021-12-06 <br> [![](http://gh-btns.cjwirth.com/stars/jonathantribouharet/JTCalendar)](https://github.com/jonathantribouharet/JTCalendar/stargazers) ⭐ 2,738 \| 🐛 117 \| 🌐 Objective-C \| 📅 2021-12-06 <br> Language: Obj-C <br> License: [MIT][MIT] | <img src="/assets/JTCalendar1.gif"> <img src="/assets/JTCalendar2.png"> |
 
 # Effects
 
@@ -64,7 +64,7 @@ Found a UI/UX library that you think is *awesome*?? Want to share it with the wo
 
 | Repo                                                                                                                                                                                                                                                                                                                   | Demo                                                                                                  |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- |
-| [Material](https://github.com/CosmicMind/Material) ⭐ 12,015 \| 🐛 37 \| 🌐 Swift \| 📅 2022-05-16 <br> [![](http://gh-btns.cjwirth.com/stars/CosmicMind/Material)](https://github.com/CosmicMind/Material/stargazers) ⭐ 12,015 \| 🐛 37 \| 🌐 Swift \| 📅 2022-05-16 <br> Language: Swift <br> License: [BSD-3][BSD-3] | <img src="/assets/Material1.gif"> <img src="/assets/Material2.gif"> <img src="/assets/Material3.gif"> |
+| [Material](https://github.com/CosmicMind/Material) ⭐ 12,016 \| 🐛 37 \| 🌐 Swift \| 📅 2022-05-16 <br> [![](http://gh-btns.cjwirth.com/stars/CosmicMind/Material)](https://github.com/CosmicMind/Material/stargazers) ⭐ 12,016 \| 🐛 37 \| 🌐 Swift \| 📅 2022-05-16 <br> Language: Swift <br> License: [BSD-3][BSD-3] | <img src="/assets/Material1.gif"> <img src="/assets/Material2.gif"> <img src="/assets/Material3.gif"> |
 | [MaterialKit](https://github.com/nghialv/MaterialKit) ⭐ 2,487 \| 🐛 34 \| 🌐 Swift \| 📅 2020-11-24 <br> [![](http://gh-btns.cjwirth.com/stars/nghialv/MaterialKit)](https://github.com/nghialv/MaterialKit/stargazers) ⭐ 2,487 \| 🐛 34 \| 🌐 Swift \| 📅 2020-11-24 <br> Language: Swift <br> License: [MIT][MIT]    | <img src="/assets/MaterialKit1.gif">                                                                  |
 
 # Notifications and Alerts
@@ -189,4 +189,4 @@ Found a UI/UX library that you think is *awesome*?? Want to share it with the wo
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-18._
