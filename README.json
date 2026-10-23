@@ -109,7 +109,7 @@
             "open_issues": 2,
             "owner": "marty-suzuki",
             "repo": "SAHistoryNavigationViewController",
-            "stars": 1553,
+            "stars": 1554,
             "topics": [
               "animation",
               "support-3d-touch",
@@ -301,7 +301,7 @@
             "open_issues": 117,
             "owner": "johnvuko",
             "repo": "JTCalendar",
-            "stars": 2738,
+            "stars": 2739,
             "topics": [
               "calendar",
               "ios"
@@ -331,7 +331,7 @@
             "open_issues": 83,
             "owner": "Flipboard",
             "repo": "FLAnimatedImage",
-            "stars": 7938,
+            "stars": 7937,
             "topics": []
           },
           "first_seen": "2026-08-29T00:36:12.688Z"
@@ -400,7 +400,7 @@
             "open_issues": 37,
             "owner": "CosmicMind",
             "repo": "Material",
-            "stars": 12015,
+            "stars": 12013,
             "topics": [
               "animation",
               "card",
@@ -538,7 +538,7 @@
             "open_issues": 10,
             "owner": "cwRichardKim",
             "repo": "RKDropdownAlert",
-            "stars": 1524,
+            "stars": 1523,
             "topics": []
           },
           "first_seen": "2026-08-29T00:36:12.688Z"
@@ -731,7 +731,7 @@
             "open_issues": 14,
             "owner": "IFTTT",
             "repo": "JazzHands",
-            "stars": 6351,
+            "stars": 6350,
             "topics": []
           },
           "first_seen": "2026-08-29T00:36:12.688Z"
@@ -752,7 +752,7 @@
             "open_issues": 18,
             "owner": "MatthewYork",
             "repo": "MYBlurIntroductionView",
-            "stars": 1513,
+            "stars": 1512,
             "topics": []
           },
           "first_seen": "2026-08-29T00:36:12.688Z"
@@ -1093,7 +1093,7 @@
             "open_issues": 26,
             "owner": "coolbeet",
             "repo": "CBStoreHouseRefreshControl",
-            "stars": 3881,
+            "stars": 3882,
             "topics": []
           },
           "first_seen": "2026-08-29T00:36:12.688Z"
@@ -1535,7 +1535,7 @@
             "open_issues": 24,
             "owner": "CSStickyHeaderFlowLayout",
             "repo": "CSStickyHeaderFlowLayout",
-            "stars": 5021,
+            "stars": 5019,
             "topics": []
           },
           "first_seen": "2026-08-29T00:36:12.688Z"
@@ -1824,7 +1824,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-22T20:12:59.655Z",
+    "last_updated": "2026-10-23T19:59:23.908Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome iOS UI/UX libraries",
@@ -1836,7 +1836,7 @@
       "open_issues": 14,
       "owner": "cjwirth",
       "repo": "awesome-ios-ui",
-      "stars": 11221,
+      "stars": 11222,
       "topics": []
     },
     "original_repository_sha": "2bb9ace467fc5048fbdbb52e8fb558cc3973a422",
