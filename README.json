@@ -468,7 +468,7 @@
             "open_issues": 93,
             "owner": "KrauseFx",
             "repo": "TSMessages",
-            "stars": 4835,
+            "stars": 4834,
             "topics": [
               "cocoapods",
               "ios",
@@ -493,7 +493,7 @@
             "language": "Objective-C",
             "license": "MIT",
             "last_commit": "2024-05-02T19:59:52Z",
-            "open_issues": 69,
+            "open_issues": 71,
             "owner": "cruffenach",
             "repo": "CRToast",
             "stars": 4119,
@@ -1824,7 +1824,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T19:59:23.908Z",
+    "last_updated": "2026-10-24T18:51:55.590Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome iOS UI/UX libraries",
