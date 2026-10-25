@@ -251,7 +251,7 @@
             "open_issues": 503,
             "owner": "WenchaoD",
             "repo": "FSCalendar",
-            "stars": 10628,
+            "stars": 10629,
             "topics": [
               "calendar",
               "carthage",
@@ -331,7 +331,7 @@
             "open_issues": 83,
             "owner": "Flipboard",
             "repo": "FLAnimatedImage",
-            "stars": 7937,
+            "stars": 7938,
             "topics": []
           },
           "first_seen": "2026-08-29T00:36:12.688Z"
@@ -400,7 +400,7 @@
             "open_issues": 37,
             "owner": "CosmicMind",
             "repo": "Material",
-            "stars": 12013,
+            "stars": 12015,
             "topics": [
               "animation",
               "card",
@@ -731,7 +731,7 @@
             "open_issues": 14,
             "owner": "IFTTT",
             "repo": "JazzHands",
-            "stars": 6350,
+            "stars": 6351,
             "topics": []
           },
           "first_seen": "2026-08-29T00:36:12.688Z"
@@ -936,7 +936,7 @@
             "open_issues": 94,
             "owner": "jdg",
             "repo": "MBProgressHUD",
-            "stars": 15898,
+            "stars": 15899,
             "topics": []
           },
           "first_seen": "2026-08-29T00:36:12.688Z"
@@ -1051,7 +1051,7 @@
             "open_issues": 1,
             "owner": "ninjaprox",
             "repo": "NVActivityIndicatorView",
-            "stars": 10700,
+            "stars": 10701,
             "topics": [
               "animation",
               "carthage",
@@ -1535,7 +1535,7 @@
             "open_issues": 24,
             "owner": "CSStickyHeaderFlowLayout",
             "repo": "CSStickyHeaderFlowLayout",
-            "stars": 5019,
+            "stars": 5020,
             "topics": []
           },
           "first_seen": "2026-08-29T00:36:12.688Z"
@@ -1709,7 +1709,7 @@
             "open_issues": 7,
             "owner": "raulriera",
             "repo": "TextFieldEffects",
-            "stars": 6010,
+            "stars": 6011,
             "topics": [
               "animation",
               "effects",
@@ -1756,7 +1756,7 @@
             "open_issues": 28,
             "owner": "jverdi",
             "repo": "JVFloatLabeledTextField",
-            "stars": 7130,
+            "stars": 7131,
             "topics": [
               "carthage",
               "floating-labels",
@@ -1824,7 +1824,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T18:51:55.590Z",
+    "last_updated": "2026-10-25T19:08:20.264Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome iOS UI/UX libraries",
@@ -1836,7 +1836,7 @@
       "open_issues": 14,
       "owner": "cjwirth",
       "repo": "awesome-ios-ui",
-      "stars": 11222,
+      "stars": 11223,
       "topics": []
     },
     "original_repository_sha": "2bb9ace467fc5048fbdbb52e8fb558cc3973a422",
