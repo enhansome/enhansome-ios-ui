@@ -251,7 +251,7 @@
             "open_issues": 503,
             "owner": "WenchaoD",
             "repo": "FSCalendar",
-            "stars": 10629,
+            "stars": 10630,
             "topics": [
               "calendar",
               "carthage",
@@ -492,8 +492,8 @@
             "id": 16788636,
             "language": "Objective-C",
             "license": "MIT",
-            "last_commit": "2024-05-02T19:59:52Z",
-            "open_issues": 71,
+            "last_commit": "2026-10-26T12:26:25Z",
+            "open_issues": 68,
             "owner": "cruffenach",
             "repo": "CRToast",
             "stars": 4119,
@@ -936,7 +936,7 @@
             "open_issues": 94,
             "owner": "jdg",
             "repo": "MBProgressHUD",
-            "stars": 15899,
+            "stars": 15898,
             "topics": []
           },
           "first_seen": "2026-08-29T00:36:12.688Z"
@@ -1709,7 +1709,7 @@
             "open_issues": 7,
             "owner": "raulriera",
             "repo": "TextFieldEffects",
-            "stars": 6011,
+            "stars": 6010,
             "topics": [
               "animation",
               "effects",
@@ -1824,7 +1824,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-25T19:08:20.264Z",
+    "last_updated": "2026-10-26T21:05:59.529Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome iOS UI/UX libraries",
