@@ -109,7 +109,7 @@
             "open_issues": 2,
             "owner": "marty-suzuki",
             "repo": "SAHistoryNavigationViewController",
-            "stars": 1553,
+            "stars": 1552,
             "topics": [
               "animation",
               "support-3d-touch",
@@ -134,7 +134,7 @@
             "open_issues": 2,
             "owner": "dotintent",
             "repo": "WobbleView",
-            "stars": 2167,
+            "stars": 2166,
             "topics": []
           },
           "first_seen": "2026-08-29T00:36:12.688Z"
@@ -331,7 +331,7 @@
             "open_issues": 83,
             "owner": "Flipboard",
             "repo": "FLAnimatedImage",
-            "stars": 7939,
+            "stars": 7941,
             "topics": []
           },
           "first_seen": "2026-08-29T00:36:12.688Z"
@@ -400,7 +400,7 @@
             "open_issues": 37,
             "owner": "CosmicMind",
             "repo": "Material",
-            "stars": 12015,
+            "stars": 12014,
             "topics": [
               "animation",
               "card",
@@ -936,7 +936,7 @@
             "open_issues": 94,
             "owner": "jdg",
             "repo": "MBProgressHUD",
-            "stars": 15898,
+            "stars": 15897,
             "topics": []
           },
           "first_seen": "2026-08-29T00:36:12.688Z"
@@ -1020,7 +1020,7 @@
             "open_issues": 2,
             "owner": "skywinder",
             "repo": "GaugeKit",
-            "stars": 1022,
+            "stars": 1021,
             "topics": [
               "carthage",
               "cocoapods",
@@ -1824,7 +1824,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-28T21:11:48.293Z",
+    "last_updated": "2026-10-29T21:15:20.591Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome iOS UI/UX libraries",
@@ -1833,10 +1833,10 @@
       "language": null,
       "license": null,
       "last_commit": "2018-03-08T08:57:40Z",
-      "open_issues": 13,
+      "open_issues": 14,
       "owner": "cjwirth",
       "repo": "awesome-ios-ui",
-      "stars": 11224,
+      "stars": 11223,
       "topics": []
     },
     "original_repository_sha": "2bb9ace467fc5048fbdbb52e8fb558cc3973a422",
