@@ -109,7 +109,7 @@
             "open_issues": 2,
             "owner": "marty-suzuki",
             "repo": "SAHistoryNavigationViewController",
-            "stars": 1552,
+            "stars": 1551,
             "topics": [
               "animation",
               "support-3d-touch",
@@ -352,7 +352,7 @@
             "open_issues": 13,
             "owner": "shu223",
             "repo": "PulsingHalo",
-            "stars": 1781,
+            "stars": 1780,
             "topics": []
           },
           "first_seen": "2026-08-29T00:36:12.688Z"
@@ -517,7 +517,7 @@
             "open_issues": 16,
             "owner": "terryworona",
             "repo": "TWMessageBarManager",
-            "stars": 1749,
+            "stars": 1750,
             "topics": []
           },
           "first_seen": "2026-08-29T00:36:12.688Z"
@@ -731,7 +731,7 @@
             "open_issues": 14,
             "owner": "IFTTT",
             "repo": "JazzHands",
-            "stars": 6351,
+            "stars": 6350,
             "topics": []
           },
           "first_seen": "2026-08-29T00:36:12.688Z"
@@ -846,7 +846,7 @@
             "open_issues": 63,
             "owner": "mariohahn",
             "repo": "MHVideoPhotoGallery",
-            "stars": 1943,
+            "stars": 1942,
             "topics": []
           },
           "first_seen": "2026-08-29T00:36:12.688Z"
@@ -936,7 +936,7 @@
             "open_issues": 94,
             "owner": "jdg",
             "repo": "MBProgressHUD",
-            "stars": 15897,
+            "stars": 15895,
             "topics": []
           },
           "first_seen": "2026-08-29T00:36:12.688Z"
@@ -1204,7 +1204,7 @@
             "open_issues": 131,
             "owner": "romaonthego",
             "repo": "RESideMenu",
-            "stars": 7032,
+            "stars": 7033,
             "topics": []
           },
           "first_seen": "2026-08-29T00:36:12.688Z"
@@ -1288,7 +1288,7 @@
             "open_issues": 1,
             "owner": "zigzagg16",
             "repo": "cariocamenu",
-            "stars": 775,
+            "stars": 774,
             "topics": [
               "gesture-driven-animations",
               "ios",
@@ -1371,7 +1371,7 @@
             "open_issues": 14,
             "owner": "Yalantis",
             "repo": "FoldingTabBar.iOS",
-            "stars": 3660,
+            "stars": 3659,
             "topics": [
               "animation",
               "carthage",
@@ -1556,7 +1556,7 @@
             "open_issues": 40,
             "owner": "bryankeller",
             "repo": "BLKFlexibleHeightBar",
-            "stars": 3055,
+            "stars": 3054,
             "topics": []
           },
           "first_seen": "2026-08-29T00:36:12.688Z"
@@ -1667,7 +1667,7 @@
             "open_issues": 131,
             "owner": "nnhubbard",
             "repo": "ZSSRichTextEditor",
-            "stars": 3778,
+            "stars": 3779,
             "topics": []
           },
           "first_seen": "2026-08-29T00:36:12.688Z"
@@ -1688,7 +1688,7 @@
             "open_issues": 112,
             "owner": "cjwirth",
             "repo": "RichEditorView",
-            "stars": 1891,
+            "stars": 1892,
             "topics": []
           },
           "first_seen": "2026-08-29T00:36:12.688Z"
@@ -1709,7 +1709,7 @@
             "open_issues": 7,
             "owner": "raulriera",
             "repo": "TextFieldEffects",
-            "stars": 6009,
+            "stars": 6010,
             "topics": [
               "animation",
               "effects",
@@ -1756,7 +1756,7 @@
             "open_issues": 28,
             "owner": "jverdi",
             "repo": "JVFloatLabeledTextField",
-            "stars": 7130,
+            "stars": 7131,
             "topics": [
               "carthage",
               "floating-labels",
@@ -1824,7 +1824,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T21:15:20.591Z",
+    "last_updated": "2026-10-30T20:54:30.440Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome iOS UI/UX libraries",
@@ -1833,7 +1833,7 @@
       "language": null,
       "license": null,
       "last_commit": "2018-03-08T08:57:40Z",
-      "open_issues": 14,
+      "open_issues": 13,
       "owner": "cjwirth",
       "repo": "awesome-ios-ui",
       "stars": 11223,
