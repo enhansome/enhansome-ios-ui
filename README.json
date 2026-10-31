@@ -109,7 +109,7 @@
             "open_issues": 2,
             "owner": "marty-suzuki",
             "repo": "SAHistoryNavigationViewController",
-            "stars": 1551,
+            "stars": 1550,
             "topics": [
               "animation",
               "support-3d-touch",
@@ -251,7 +251,7 @@
             "open_issues": 503,
             "owner": "WenchaoD",
             "repo": "FSCalendar",
-            "stars": 10630,
+            "stars": 10628,
             "topics": [
               "calendar",
               "carthage",
@@ -400,7 +400,7 @@
             "open_issues": 37,
             "owner": "CosmicMind",
             "repo": "Material",
-            "stars": 12014,
+            "stars": 12015,
             "topics": [
               "animation",
               "card",
@@ -559,7 +559,7 @@
             "open_issues": 2,
             "owner": "KyoheiG3",
             "repo": "SimpleAlert",
-            "stars": 393,
+            "stars": 392,
             "topics": [
               "customizable",
               "ios",
@@ -731,7 +731,7 @@
             "open_issues": 14,
             "owner": "IFTTT",
             "repo": "JazzHands",
-            "stars": 6350,
+            "stars": 6351,
             "topics": []
           },
           "first_seen": "2026-08-29T00:36:12.688Z"
@@ -1051,7 +1051,7 @@
             "open_issues": 1,
             "owner": "ninjaprox",
             "repo": "NVActivityIndicatorView",
-            "stars": 10701,
+            "stars": 10700,
             "topics": [
               "animation",
               "carthage",
@@ -1204,7 +1204,7 @@
             "open_issues": 131,
             "owner": "romaonthego",
             "repo": "RESideMenu",
-            "stars": 7033,
+            "stars": 7034,
             "topics": []
           },
           "first_seen": "2026-08-29T00:36:12.688Z"
@@ -1667,7 +1667,7 @@
             "open_issues": 131,
             "owner": "nnhubbard",
             "repo": "ZSSRichTextEditor",
-            "stars": 3779,
+            "stars": 3780,
             "topics": []
           },
           "first_seen": "2026-08-29T00:36:12.688Z"
@@ -1709,7 +1709,7 @@
             "open_issues": 7,
             "owner": "raulriera",
             "repo": "TextFieldEffects",
-            "stars": 6010,
+            "stars": 6009,
             "topics": [
               "animation",
               "effects",
@@ -1756,7 +1756,7 @@
             "open_issues": 28,
             "owner": "jverdi",
             "repo": "JVFloatLabeledTextField",
-            "stars": 7131,
+            "stars": 7130,
             "topics": [
               "carthage",
               "floating-labels",
@@ -1814,7 +1814,7 @@
             "open_issues": 5,
             "owner": "hanton",
             "repo": "HTYTextField",
-            "stars": 307,
+            "stars": 306,
             "topics": []
           },
           "first_seen": "2026-08-29T00:36:12.688Z"
@@ -1824,7 +1824,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T20:54:30.440Z",
+    "last_updated": "2026-10-31T20:06:54.139Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome iOS UI/UX libraries",
