@@ -203,7 +203,7 @@
             "open_issues": 10,
             "owner": "TanguyAladenise",
             "repo": "BBBadgeBarButtonItem",
-            "stars": 946,
+            "stars": 945,
             "topics": []
           },
           "first_seen": "2026-08-29T00:36:12.688Z"
@@ -400,7 +400,7 @@
             "open_issues": 37,
             "owner": "CosmicMind",
             "repo": "Material",
-            "stars": 12015,
+            "stars": 12016,
             "topics": [
               "animation",
               "card",
@@ -559,7 +559,7 @@
             "open_issues": 2,
             "owner": "KyoheiG3",
             "repo": "SimpleAlert",
-            "stars": 392,
+            "stars": 391,
             "topics": [
               "customizable",
               "ios",
@@ -655,7 +655,7 @@
             "open_issues": 10,
             "owner": "m1entus",
             "repo": "MZFormSheetController",
-            "stars": 2515,
+            "stars": 2514,
             "topics": []
           },
           "first_seen": "2026-08-29T00:36:12.688Z"
@@ -936,7 +936,7 @@
             "open_issues": 94,
             "owner": "jdg",
             "repo": "MBProgressHUD",
-            "stars": 15895,
+            "stars": 15894,
             "topics": []
           },
           "first_seen": "2026-08-29T00:36:12.688Z"
@@ -1051,7 +1051,7 @@
             "open_issues": 1,
             "owner": "ninjaprox",
             "repo": "NVActivityIndicatorView",
-            "stars": 10700,
+            "stars": 10701,
             "topics": [
               "animation",
               "carthage",
@@ -1785,7 +1785,7 @@
             "open_issues": 19,
             "owner": "skywinder",
             "repo": "ActionSheetPicker-3.0",
-            "stars": 3374,
+            "stars": 3373,
             "topics": [
               "actionsheet",
               "hacktoberfest",
@@ -1824,7 +1824,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T20:06:54.139Z",
+    "last_updated": "2026-11-01T20:38:09.087Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome iOS UI/UX libraries",
