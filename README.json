@@ -61,7 +61,7 @@
             "open_issues": 1,
             "owner": "daltoniam",
             "repo": "DCAnimationKit",
-            "stars": 803,
+            "stars": 804,
             "topics": []
           },
           "first_seen": "2026-08-29T00:36:12.688Z"
@@ -134,7 +134,7 @@
             "open_issues": 2,
             "owner": "dotintent",
             "repo": "WobbleView",
-            "stars": 2166,
+            "stars": 2165,
             "topics": []
           },
           "first_seen": "2026-08-29T00:36:12.688Z"
@@ -301,7 +301,7 @@
             "open_issues": 117,
             "owner": "johnvuko",
             "repo": "JTCalendar",
-            "stars": 2739,
+            "stars": 2738,
             "topics": [
               "calendar",
               "ios"
@@ -1824,7 +1824,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-01T20:38:09.087Z",
+    "last_updated": "2026-11-02T23:37:52.437Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome iOS UI/UX libraries",
@@ -1836,7 +1836,7 @@
       "open_issues": 13,
       "owner": "cjwirth",
       "repo": "awesome-ios-ui",
-      "stars": 11223,
+      "stars": 11222,
       "topics": []
     },
     "original_repository_sha": "2bb9ace467fc5048fbdbb52e8fb558cc3973a422",
