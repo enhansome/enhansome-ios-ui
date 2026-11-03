@@ -400,7 +400,7 @@
             "open_issues": 37,
             "owner": "CosmicMind",
             "repo": "Material",
-            "stars": 12016,
+            "stars": 12015,
             "topics": [
               "animation",
               "card",
@@ -752,7 +752,7 @@
             "open_issues": 18,
             "owner": "MatthewYork",
             "repo": "MYBlurIntroductionView",
-            "stars": 1512,
+            "stars": 1511,
             "topics": []
           },
           "first_seen": "2026-08-29T00:36:12.688Z"
@@ -1051,7 +1051,7 @@
             "open_issues": 1,
             "owner": "ninjaprox",
             "repo": "NVActivityIndicatorView",
-            "stars": 10701,
+            "stars": 10702,
             "topics": [
               "animation",
               "carthage",
@@ -1204,7 +1204,7 @@
             "open_issues": 131,
             "owner": "romaonthego",
             "repo": "RESideMenu",
-            "stars": 7034,
+            "stars": 7031,
             "topics": []
           },
           "first_seen": "2026-08-29T00:36:12.688Z"
@@ -1225,7 +1225,7 @@
             "open_issues": 91,
             "owner": "romaonthego",
             "repo": "REFrostedViewController",
-            "stars": 2929,
+            "stars": 2928,
             "topics": []
           },
           "first_seen": "2026-08-29T00:36:12.688Z"
@@ -1346,7 +1346,7 @@
             "open_issues": 5,
             "owner": "Ramotion",
             "repo": "adaptive-tab-bar",
-            "stars": 2002,
+            "stars": 2001,
             "topics": [
               "ios",
               "library",
@@ -1824,7 +1824,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-02T23:37:52.437Z",
+    "last_updated": "2026-11-03T21:52:03.072Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome iOS UI/UX libraries",
