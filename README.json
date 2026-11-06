@@ -19,7 +19,7 @@
             "open_issues": 1,
             "owner": "shu223",
             "repo": "AnimatedTransitionGallery",
-            "stars": 2500,
+            "stars": 2499,
             "topics": []
           },
           "first_seen": "2026-08-29T00:36:12.688Z"
@@ -40,7 +40,7 @@
             "open_issues": 11,
             "owner": "Rightpoint",
             "repo": "RZTransitions",
-            "stars": 1855,
+            "stars": 1854,
             "topics": []
           },
           "first_seen": "2026-08-29T00:36:12.688Z"
@@ -182,7 +182,7 @@
             "open_issues": 3,
             "owner": "cwRichardKim",
             "repo": "RKNotificationHub",
-            "stars": 3022,
+            "stars": 3021,
             "topics": []
           },
           "first_seen": "2026-08-29T00:36:12.688Z"
@@ -251,7 +251,7 @@
             "open_issues": 503,
             "owner": "WenchaoD",
             "repo": "FSCalendar",
-            "stars": 10629,
+            "stars": 10628,
             "topics": [
               "calendar",
               "carthage",
@@ -301,7 +301,7 @@
             "open_issues": 117,
             "owner": "johnvuko",
             "repo": "JTCalendar",
-            "stars": 2737,
+            "stars": 2736,
             "topics": [
               "calendar",
               "ios"
@@ -400,7 +400,7 @@
             "open_issues": 37,
             "owner": "CosmicMind",
             "repo": "Material",
-            "stars": 12016,
+            "stars": 12017,
             "topics": [
               "animation",
               "card",
@@ -496,7 +496,7 @@
             "open_issues": 68,
             "owner": "cruffenach",
             "repo": "CRToast",
-            "stars": 4113,
+            "stars": 4112,
             "topics": []
           },
           "first_seen": "2026-08-29T00:36:12.688Z"
@@ -538,7 +538,7 @@
             "open_issues": 10,
             "owner": "cwRichardKim",
             "repo": "RKDropdownAlert",
-            "stars": 1522,
+            "stars": 1521,
             "topics": []
           },
           "first_seen": "2026-08-29T00:36:12.688Z"
@@ -585,7 +585,7 @@
             "open_issues": 3,
             "owner": "atljeremy",
             "repo": "JFMinimalNotifications",
-            "stars": 928,
+            "stars": 927,
             "topics": [
               "customizable",
               "ios",
@@ -731,7 +731,7 @@
             "open_issues": 14,
             "owner": "IFTTT",
             "repo": "JazzHands",
-            "stars": 6351,
+            "stars": 6350,
             "topics": []
           },
           "first_seen": "2026-08-29T00:36:12.688Z"
@@ -936,7 +936,7 @@
             "open_issues": 94,
             "owner": "jdg",
             "repo": "MBProgressHUD",
-            "stars": 15894,
+            "stars": 15893,
             "topics": []
           },
           "first_seen": "2026-08-29T00:36:12.688Z"
@@ -978,7 +978,7 @@
             "open_issues": 48,
             "owner": "Marxon13",
             "repo": "M13ProgressSuite",
-            "stars": 3893,
+            "stars": 3892,
             "topics": []
           },
           "first_seen": "2026-08-29T00:36:12.688Z"
@@ -1093,7 +1093,7 @@
             "open_issues": 26,
             "owner": "coolbeet",
             "repo": "CBStoreHouseRefreshControl",
-            "stars": 3881,
+            "stars": 3880,
             "topics": []
           },
           "first_seen": "2026-08-29T00:36:12.688Z"
@@ -1371,7 +1371,7 @@
             "open_issues": 14,
             "owner": "Yalantis",
             "repo": "FoldingTabBar.iOS",
-            "stars": 3657,
+            "stars": 3656,
             "topics": [
               "animation",
               "carthage",
@@ -1535,7 +1535,7 @@
             "open_issues": 24,
             "owner": "CSStickyHeaderFlowLayout",
             "repo": "CSStickyHeaderFlowLayout",
-            "stars": 5019,
+            "stars": 5018,
             "topics": []
           },
           "first_seen": "2026-08-29T00:36:12.688Z"
@@ -1709,7 +1709,7 @@
             "open_issues": 7,
             "owner": "raulriera",
             "repo": "TextFieldEffects",
-            "stars": 6011,
+            "stars": 6012,
             "topics": [
               "animation",
               "effects",
@@ -1824,7 +1824,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-05T22:07:57.744Z",
+    "last_updated": "2026-11-06T21:38:45.872Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome iOS UI/UX libraries",
