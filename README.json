@@ -251,7 +251,7 @@
             "open_issues": 503,
             "owner": "WenchaoD",
             "repo": "FSCalendar",
-            "stars": 10627,
+            "stars": 10628,
             "topics": [
               "calendar",
               "carthage",
@@ -331,7 +331,7 @@
             "open_issues": 82,
             "owner": "Flipboard",
             "repo": "FLAnimatedImage",
-            "stars": 7939,
+            "stars": 7940,
             "topics": []
           },
           "first_seen": "2026-08-29T00:36:12.688Z"
@@ -400,7 +400,7 @@
             "open_issues": 37,
             "owner": "CosmicMind",
             "repo": "Material",
-            "stars": 12016,
+            "stars": 12018,
             "topics": [
               "animation",
               "card",
@@ -731,7 +731,7 @@
             "open_issues": 14,
             "owner": "IFTTT",
             "repo": "JazzHands",
-            "stars": 6349,
+            "stars": 6350,
             "topics": []
           },
           "first_seen": "2026-08-29T00:36:12.688Z"
@@ -773,7 +773,7 @@
             "open_issues": 45,
             "owner": "mamaral",
             "repo": "Onboard",
-            "stars": 6546,
+            "stars": 6547,
             "topics": []
           },
           "first_seen": "2026-08-29T00:36:12.688Z"
@@ -800,7 +800,7 @@
             "open_issues": 335,
             "owner": "mwaterfall",
             "repo": "MWPhotoBrowser",
-            "stars": 8691,
+            "stars": 8692,
             "topics": []
           },
           "first_seen": "2026-08-29T00:36:12.688Z"
@@ -936,7 +936,7 @@
             "open_issues": 94,
             "owner": "jdg",
             "repo": "MBProgressHUD",
-            "stars": 15891,
+            "stars": 15892,
             "topics": []
           },
           "first_seen": "2026-08-29T00:36:12.688Z"
@@ -1051,7 +1051,7 @@
             "open_issues": 1,
             "owner": "ninjaprox",
             "repo": "NVActivityIndicatorView",
-            "stars": 10703,
+            "stars": 10704,
             "topics": [
               "animation",
               "carthage",
@@ -1204,7 +1204,7 @@
             "open_issues": 131,
             "owner": "romaonthego",
             "repo": "RESideMenu",
-            "stars": 7030,
+            "stars": 7031,
             "topics": []
           },
           "first_seen": "2026-08-29T00:36:12.688Z"
@@ -1709,7 +1709,7 @@
             "open_issues": 7,
             "owner": "raulriera",
             "repo": "TextFieldEffects",
-            "stars": 6011,
+            "stars": 6012,
             "topics": [
               "animation",
               "effects",
@@ -1735,7 +1735,7 @@
             "open_issues": 79,
             "owner": "slackhq",
             "repo": "SlackTextViewController",
-            "stars": 8247,
+            "stars": 8248,
             "topics": []
           },
           "first_seen": "2026-08-29T00:36:12.688Z"
@@ -1756,7 +1756,7 @@
             "open_issues": 28,
             "owner": "jverdi",
             "repo": "JVFloatLabeledTextField",
-            "stars": 7128,
+            "stars": 7129,
             "topics": [
               "carthage",
               "floating-labels",
@@ -1824,7 +1824,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T00:19:55.087Z",
+    "last_updated": "2026-11-10T21:51:15.396Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome iOS UI/UX libraries",
@@ -1836,7 +1836,7 @@
       "open_issues": 13,
       "owner": "cjwirth",
       "repo": "awesome-ios-ui",
-      "stars": 11225,
+      "stars": 11226,
       "topics": []
     },
     "original_repository_sha": "2bb9ace467fc5048fbdbb52e8fb558cc3973a422",
