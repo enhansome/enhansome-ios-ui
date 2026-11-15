@@ -400,7 +400,7 @@
             "open_issues": 37,
             "owner": "CosmicMind",
             "repo": "Material",
-            "stars": 12020,
+            "stars": 12021,
             "topics": [
               "animation",
               "card",
@@ -468,7 +468,7 @@
             "open_issues": 93,
             "owner": "KrauseFx",
             "repo": "TSMessages",
-            "stars": 4832,
+            "stars": 4833,
             "topics": [
               "cocoapods",
               "ios",
@@ -800,7 +800,7 @@
             "open_issues": 335,
             "owner": "mwaterfall",
             "repo": "MWPhotoBrowser",
-            "stars": 8690,
+            "stars": 8691,
             "topics": []
           },
           "first_seen": "2026-08-29T00:36:12.688Z"
@@ -846,7 +846,7 @@
             "open_issues": 63,
             "owner": "mariohahn",
             "repo": "MHVideoPhotoGallery",
-            "stars": 1940,
+            "stars": 1941,
             "topics": []
           },
           "first_seen": "2026-08-29T00:36:12.688Z"
@@ -867,7 +867,7 @@
             "open_issues": 19,
             "owner": "EddyBorja",
             "repo": "EBPhotoPages",
-            "stars": 1619,
+            "stars": 1620,
             "topics": []
           },
           "first_seen": "2026-08-29T00:36:12.688Z"
@@ -936,7 +936,7 @@
             "open_issues": 94,
             "owner": "jdg",
             "repo": "MBProgressHUD",
-            "stars": 15888,
+            "stars": 15887,
             "topics": []
           },
           "first_seen": "2026-08-29T00:36:12.688Z"
@@ -1824,7 +1824,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T20:48:37.045Z",
+    "last_updated": "2026-11-15T21:07:08.363Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome iOS UI/UX libraries",
