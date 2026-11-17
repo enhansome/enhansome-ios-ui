@@ -301,7 +301,7 @@
             "open_issues": 117,
             "owner": "johnvuko",
             "repo": "JTCalendar",
-            "stars": 2736,
+            "stars": 2737,
             "topics": [
               "calendar",
               "ios"
@@ -468,7 +468,7 @@
             "open_issues": 93,
             "owner": "KrauseFx",
             "repo": "TSMessages",
-            "stars": 4833,
+            "stars": 4832,
             "topics": [
               "cocoapods",
               "ios",
@@ -978,7 +978,7 @@
             "open_issues": 48,
             "owner": "Marxon13",
             "repo": "M13ProgressSuite",
-            "stars": 3889,
+            "stars": 3888,
             "topics": []
           },
           "first_seen": "2026-08-29T00:36:12.688Z"
@@ -999,7 +999,7 @@
             "open_issues": 7,
             "owner": "fabianofrancesconi",
             "repo": "FFCircularProgressView",
-            "stars": 986,
+            "stars": 985,
             "topics": []
           },
           "first_seen": "2026-08-29T00:36:12.688Z"
@@ -1493,7 +1493,7 @@
             "open_issues": 7,
             "owner": "betzerra",
             "repo": "MosaicLayout",
-            "stars": 504,
+            "stars": 503,
             "topics": []
           },
           "first_seen": "2026-08-29T00:36:12.688Z"
@@ -1735,7 +1735,7 @@
             "open_issues": 79,
             "owner": "slackhq",
             "repo": "SlackTextViewController",
-            "stars": 8247,
+            "stars": 8246,
             "topics": []
           },
           "first_seen": "2026-08-29T00:36:12.688Z"
@@ -1824,7 +1824,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-17T00:19:43.358Z",
+    "last_updated": "2026-11-17T23:34:54.051Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome iOS UI/UX libraries",
@@ -1836,7 +1836,7 @@
       "open_issues": 13,
       "owner": "cjwirth",
       "repo": "awesome-ios-ui",
-      "stars": 11228,
+      "stars": 11229,
       "topics": []
     },
     "original_repository_sha": "2bb9ace467fc5048fbdbb52e8fb558cc3973a422",
