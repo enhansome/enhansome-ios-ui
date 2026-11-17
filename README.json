@@ -134,7 +134,7 @@
             "open_issues": 2,
             "owner": "dotintent",
             "repo": "WobbleView",
-            "stars": 2164,
+            "stars": 2163,
             "topics": []
           },
           "first_seen": "2026-08-29T00:36:12.688Z"
@@ -182,7 +182,7 @@
             "open_issues": 3,
             "owner": "cwRichardKim",
             "repo": "RKNotificationHub",
-            "stars": 3021,
+            "stars": 3020,
             "topics": []
           },
           "first_seen": "2026-08-29T00:36:12.688Z"
@@ -773,7 +773,7 @@
             "open_issues": 45,
             "owner": "mamaral",
             "repo": "Onboard",
-            "stars": 6547,
+            "stars": 6548,
             "topics": []
           },
           "first_seen": "2026-08-29T00:36:12.688Z"
@@ -821,7 +821,7 @@
             "open_issues": 50,
             "owner": "0xced",
             "repo": "XCDYouTubeKit",
-            "stars": 2918,
+            "stars": 2917,
             "topics": [
               "player",
               "video",
@@ -978,7 +978,7 @@
             "open_issues": 48,
             "owner": "Marxon13",
             "repo": "M13ProgressSuite",
-            "stars": 3890,
+            "stars": 3889,
             "topics": []
           },
           "first_seen": "2026-08-29T00:36:12.688Z"
@@ -1051,7 +1051,7 @@
             "open_issues": 1,
             "owner": "ninjaprox",
             "repo": "NVActivityIndicatorView",
-            "stars": 10709,
+            "stars": 10712,
             "topics": [
               "animation",
               "carthage",
@@ -1114,7 +1114,7 @@
             "open_issues": 3,
             "owner": "uzysjung",
             "repo": "UzysAnimatedGifPullToRefresh",
-            "stars": 1391,
+            "stars": 1392,
             "topics": []
           },
           "first_seen": "2026-08-29T00:36:12.688Z"
@@ -1135,7 +1135,7 @@
             "open_issues": 0,
             "owner": "mentionapp",
             "repo": "mntpulltoreact",
-            "stars": 764,
+            "stars": 763,
             "topics": []
           },
           "first_seen": "2026-08-29T00:36:12.688Z"
@@ -1156,7 +1156,7 @@
             "open_issues": 3,
             "owner": "uzysjung",
             "repo": "UzysCircularProgressPullToRefresh",
-            "stars": 338,
+            "stars": 339,
             "topics": []
           },
           "first_seen": "2026-08-29T00:36:12.688Z"
@@ -1267,7 +1267,7 @@
             "open_issues": 20,
             "owner": "matghazaryan",
             "repo": "AMSlideMenu2",
-            "stars": 1189,
+            "stars": 1188,
             "topics": []
           },
           "first_seen": "2026-08-29T00:36:12.688Z"
@@ -1667,7 +1667,7 @@
             "open_issues": 131,
             "owner": "nnhubbard",
             "repo": "ZSSRichTextEditor",
-            "stars": 3778,
+            "stars": 3777,
             "topics": []
           },
           "first_seen": "2026-08-29T00:36:12.688Z"
@@ -1824,7 +1824,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-15T21:07:08.363Z",
+    "last_updated": "2026-11-17T00:19:43.358Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome iOS UI/UX libraries",
