@@ -251,7 +251,7 @@
             "open_issues": 503,
             "owner": "WenchaoD",
             "repo": "FSCalendar",
-            "stars": 10628,
+            "stars": 10627,
             "topics": [
               "calendar",
               "carthage",
@@ -331,7 +331,7 @@
             "open_issues": 82,
             "owner": "Flipboard",
             "repo": "FLAnimatedImage",
-            "stars": 7940,
+            "stars": 7939,
             "topics": []
           },
           "first_seen": "2026-08-29T00:36:12.688Z"
@@ -468,7 +468,7 @@
             "open_issues": 93,
             "owner": "KrauseFx",
             "repo": "TSMessages",
-            "stars": 4832,
+            "stars": 4831,
             "topics": [
               "cocoapods",
               "ios",
@@ -496,7 +496,7 @@
             "open_issues": 68,
             "owner": "cruffenach",
             "repo": "CRToast",
-            "stars": 4112,
+            "stars": 4111,
             "topics": []
           },
           "first_seen": "2026-08-29T00:36:12.688Z"
@@ -517,7 +517,7 @@
             "open_issues": 16,
             "owner": "terryworona",
             "repo": "TWMessageBarManager",
-            "stars": 1748,
+            "stars": 1747,
             "topics": []
           },
           "first_seen": "2026-08-29T00:36:12.688Z"
@@ -752,7 +752,7 @@
             "open_issues": 18,
             "owner": "MatthewYork",
             "repo": "MYBlurIntroductionView",
-            "stars": 1510,
+            "stars": 1509,
             "topics": []
           },
           "first_seen": "2026-08-29T00:36:12.688Z"
@@ -773,7 +773,7 @@
             "open_issues": 45,
             "owner": "mamaral",
             "repo": "Onboard",
-            "stars": 6548,
+            "stars": 6547,
             "topics": []
           },
           "first_seen": "2026-08-29T00:36:12.688Z"
@@ -800,7 +800,7 @@
             "open_issues": 335,
             "owner": "mwaterfall",
             "repo": "MWPhotoBrowser",
-            "stars": 8691,
+            "stars": 8689,
             "topics": []
           },
           "first_seen": "2026-08-29T00:36:12.688Z"
@@ -846,7 +846,7 @@
             "open_issues": 63,
             "owner": "mariohahn",
             "repo": "MHVideoPhotoGallery",
-            "stars": 1941,
+            "stars": 1940,
             "topics": []
           },
           "first_seen": "2026-08-29T00:36:12.688Z"
@@ -867,7 +867,7 @@
             "open_issues": 19,
             "owner": "EddyBorja",
             "repo": "EBPhotoPages",
-            "stars": 1620,
+            "stars": 1616,
             "topics": []
           },
           "first_seen": "2026-08-29T00:36:12.688Z"
@@ -1051,7 +1051,7 @@
             "open_issues": 1,
             "owner": "ninjaprox",
             "repo": "NVActivityIndicatorView",
-            "stars": 10713,
+            "stars": 10711,
             "topics": [
               "animation",
               "carthage",
@@ -1114,7 +1114,7 @@
             "open_issues": 3,
             "owner": "uzysjung",
             "repo": "UzysAnimatedGifPullToRefresh",
-            "stars": 1392,
+            "stars": 1391,
             "topics": []
           },
           "first_seen": "2026-08-29T00:36:12.688Z"
@@ -1156,7 +1156,7 @@
             "open_issues": 3,
             "owner": "uzysjung",
             "repo": "UzysCircularProgressPullToRefresh",
-            "stars": 339,
+            "stars": 338,
             "topics": []
           },
           "first_seen": "2026-08-29T00:36:12.688Z"
@@ -1204,7 +1204,7 @@
             "open_issues": 131,
             "owner": "romaonthego",
             "repo": "RESideMenu",
-            "stars": 7031,
+            "stars": 7029,
             "topics": []
           },
           "first_seen": "2026-08-29T00:36:12.688Z"
@@ -1267,7 +1267,7 @@
             "open_issues": 20,
             "owner": "matghazaryan",
             "repo": "AMSlideMenu2",
-            "stars": 1188,
+            "stars": 1187,
             "topics": []
           },
           "first_seen": "2026-08-29T00:36:12.688Z"
@@ -1346,7 +1346,7 @@
             "open_issues": 5,
             "owner": "Ramotion",
             "repo": "adaptive-tab-bar",
-            "stars": 1999,
+            "stars": 1998,
             "topics": [
               "ios",
               "library",
@@ -1667,7 +1667,7 @@
             "open_issues": 131,
             "owner": "nnhubbard",
             "repo": "ZSSRichTextEditor",
-            "stars": 3777,
+            "stars": 3775,
             "topics": []
           },
           "first_seen": "2026-08-29T00:36:12.688Z"
@@ -1688,7 +1688,7 @@
             "open_issues": 112,
             "owner": "cjwirth",
             "repo": "RichEditorView",
-            "stars": 1892,
+            "stars": 1890,
             "topics": []
           },
           "first_seen": "2026-08-29T00:36:12.688Z"
@@ -1709,7 +1709,7 @@
             "open_issues": 7,
             "owner": "raulriera",
             "repo": "TextFieldEffects",
-            "stars": 6014,
+            "stars": 6012,
             "topics": [
               "animation",
               "effects",
@@ -1735,7 +1735,7 @@
             "open_issues": 79,
             "owner": "slackhq",
             "repo": "SlackTextViewController",
-            "stars": 8246,
+            "stars": 8244,
             "topics": []
           },
           "first_seen": "2026-08-29T00:36:12.688Z"
@@ -1756,7 +1756,7 @@
             "open_issues": 28,
             "owner": "jverdi",
             "repo": "JVFloatLabeledTextField",
-            "stars": 7130,
+            "stars": 7129,
             "topics": [
               "carthage",
               "floating-labels",
@@ -1824,7 +1824,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T22:58:55.798Z",
+    "last_updated": "2026-11-19T23:07:10.779Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome iOS UI/UX libraries",
