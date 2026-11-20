@@ -400,7 +400,7 @@
             "open_issues": 37,
             "owner": "CosmicMind",
             "repo": "Material",
-            "stars": 12023,
+            "stars": 12022,
             "topics": [
               "animation",
               "card",
@@ -773,7 +773,7 @@
             "open_issues": 45,
             "owner": "mamaral",
             "repo": "Onboard",
-            "stars": 6547,
+            "stars": 6546,
             "topics": []
           },
           "first_seen": "2026-08-29T00:36:12.688Z"
@@ -821,7 +821,7 @@
             "open_issues": 50,
             "owner": "0xced",
             "repo": "XCDYouTubeKit",
-            "stars": 2918,
+            "stars": 2919,
             "topics": [
               "player",
               "video",
@@ -1688,7 +1688,7 @@
             "open_issues": 112,
             "owner": "cjwirth",
             "repo": "RichEditorView",
-            "stars": 1890,
+            "stars": 1889,
             "topics": []
           },
           "first_seen": "2026-08-29T00:36:12.688Z"
@@ -1824,7 +1824,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T23:07:10.779Z",
+    "last_updated": "2026-11-20T22:42:45.266Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome iOS UI/UX libraries",
