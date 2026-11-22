@@ -251,7 +251,7 @@
             "open_issues": 503,
             "owner": "WenchaoD",
             "repo": "FSCalendar",
-            "stars": 10627,
+            "stars": 10626,
             "topics": [
               "calendar",
               "carthage",
@@ -331,7 +331,7 @@
             "open_issues": 82,
             "owner": "Flipboard",
             "repo": "FLAnimatedImage",
-            "stars": 7939,
+            "stars": 7940,
             "topics": []
           },
           "first_seen": "2026-08-29T00:36:12.688Z"
@@ -821,7 +821,7 @@
             "open_issues": 50,
             "owner": "0xced",
             "repo": "XCDYouTubeKit",
-            "stars": 2919,
+            "stars": 2920,
             "topics": [
               "player",
               "video",
@@ -1051,7 +1051,7 @@
             "open_issues": 1,
             "owner": "ninjaprox",
             "repo": "NVActivityIndicatorView",
-            "stars": 10711,
+            "stars": 10712,
             "topics": [
               "animation",
               "carthage",
@@ -1824,7 +1824,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T21:43:45.910Z",
+    "last_updated": "2026-11-22T21:54:44.329Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome iOS UI/UX libraries",
