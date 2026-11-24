@@ -1020,7 +1020,7 @@
             "open_issues": 2,
             "owner": "skywinder",
             "repo": "GaugeKit",
-            "stars": 1021,
+            "stars": 1020,
             "topics": [
               "carthage",
               "cocoapods",
@@ -1709,7 +1709,7 @@
             "open_issues": 7,
             "owner": "raulriera",
             "repo": "TextFieldEffects",
-            "stars": 6012,
+            "stars": 6011,
             "topics": [
               "animation",
               "effects",
@@ -1735,7 +1735,7 @@
             "open_issues": 79,
             "owner": "slackhq",
             "repo": "SlackTextViewController",
-            "stars": 8244,
+            "stars": 8243,
             "topics": []
           },
           "first_seen": "2026-08-29T00:36:12.688Z"
@@ -1824,7 +1824,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-22T21:54:44.329Z",
+    "last_updated": "2026-11-24T02:57:53.157Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome iOS UI/UX libraries",
@@ -1833,10 +1833,10 @@
       "language": null,
       "license": null,
       "last_commit": "2018-03-08T08:57:40Z",
-      "open_issues": 13,
+      "open_issues": 11,
       "owner": "cjwirth",
       "repo": "awesome-ios-ui",
-      "stars": 11231,
+      "stars": 11230,
       "topics": []
     },
     "original_repository_sha": "2bb9ace467fc5048fbdbb52e8fb558cc3973a422",
