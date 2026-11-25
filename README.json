@@ -352,7 +352,7 @@
             "open_issues": 13,
             "owner": "shu223",
             "repo": "PulsingHalo",
-            "stars": 1779,
+            "stars": 1778,
             "topics": []
           },
           "first_seen": "2026-08-29T00:36:12.688Z"
@@ -655,7 +655,7 @@
             "open_issues": 10,
             "owner": "m1entus",
             "repo": "MZFormSheetController",
-            "stars": 2513,
+            "stars": 2512,
             "topics": []
           },
           "first_seen": "2026-08-29T00:36:12.688Z"
@@ -797,7 +797,7 @@
             "language": "Objective-C",
             "license": "MIT",
             "last_commit": "2024-06-27T12:38:19Z",
-            "open_issues": 335,
+            "open_issues": 334,
             "owner": "mwaterfall",
             "repo": "MWPhotoBrowser",
             "stars": 8689,
@@ -821,7 +821,7 @@
             "open_issues": 50,
             "owner": "0xced",
             "repo": "XCDYouTubeKit",
-            "stars": 2920,
+            "stars": 2921,
             "topics": [
               "player",
               "video",
@@ -846,7 +846,7 @@
             "open_issues": 63,
             "owner": "mariohahn",
             "repo": "MHVideoPhotoGallery",
-            "stars": 1940,
+            "stars": 1939,
             "topics": []
           },
           "first_seen": "2026-08-29T00:36:12.688Z"
@@ -909,7 +909,7 @@
             "open_issues": 17,
             "owner": "sahin",
             "repo": "VideoSplashKit",
-            "stars": 1211,
+            "stars": 1212,
             "topics": []
           },
           "first_seen": "2026-08-29T00:36:12.688Z"
@@ -1177,7 +1177,7 @@
             "open_issues": 5,
             "owner": "cemolcay",
             "repo": "PullToRefreshCoreText",
-            "stars": 310,
+            "stars": 309,
             "topics": []
           },
           "first_seen": "2026-08-29T00:36:12.688Z"
@@ -1371,7 +1371,7 @@
             "open_issues": 14,
             "owner": "Yalantis",
             "repo": "FoldingTabBar.iOS",
-            "stars": 3654,
+            "stars": 3653,
             "topics": [
               "animation",
               "carthage",
@@ -1535,7 +1535,7 @@
             "open_issues": 24,
             "owner": "CSStickyHeaderFlowLayout",
             "repo": "CSStickyHeaderFlowLayout",
-            "stars": 5018,
+            "stars": 5017,
             "topics": []
           },
           "first_seen": "2026-08-29T00:36:12.688Z"
@@ -1598,7 +1598,7 @@
             "open_issues": 3,
             "owner": "matteogobbi",
             "repo": "MGSpotyViewController",
-            "stars": 1010,
+            "stars": 1009,
             "topics": []
           },
           "first_seen": "2026-08-29T00:36:12.688Z"
@@ -1709,7 +1709,7 @@
             "open_issues": 7,
             "owner": "raulriera",
             "repo": "TextFieldEffects",
-            "stars": 6011,
+            "stars": 6010,
             "topics": [
               "animation",
               "effects",
@@ -1756,7 +1756,7 @@
             "open_issues": 28,
             "owner": "jverdi",
             "repo": "JVFloatLabeledTextField",
-            "stars": 7129,
+            "stars": 7128,
             "topics": [
               "carthage",
               "floating-labels",
@@ -1824,7 +1824,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-24T02:57:53.157Z",
+    "last_updated": "2026-11-25T00:54:39.359Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome iOS UI/UX libraries",
