@@ -400,7 +400,7 @@
             "open_issues": 37,
             "owner": "CosmicMind",
             "repo": "Material",
-            "stars": 12022,
+            "stars": 12024,
             "topics": [
               "animation",
               "card",
@@ -800,7 +800,7 @@
             "open_issues": 334,
             "owner": "mwaterfall",
             "repo": "MWPhotoBrowser",
-            "stars": 8689,
+            "stars": 8688,
             "topics": []
           },
           "first_seen": "2026-08-29T00:36:12.688Z"
@@ -821,7 +821,7 @@
             "open_issues": 50,
             "owner": "0xced",
             "repo": "XCDYouTubeKit",
-            "stars": 2921,
+            "stars": 2922,
             "topics": [
               "player",
               "video",
@@ -843,7 +843,7 @@
             "language": "Objective-C",
             "license": "MIT",
             "last_commit": "2021-10-06T11:35:12Z",
-            "open_issues": 63,
+            "open_issues": 62,
             "owner": "mariohahn",
             "repo": "MHVideoPhotoGallery",
             "stars": 1939,
@@ -1204,7 +1204,7 @@
             "open_issues": 131,
             "owner": "romaonthego",
             "repo": "RESideMenu",
-            "stars": 7029,
+            "stars": 7030,
             "topics": []
           },
           "first_seen": "2026-08-29T00:36:12.688Z"
@@ -1824,7 +1824,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-25T00:54:39.359Z",
+    "last_updated": "2026-11-26T00:32:49.689Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome iOS UI/UX libraries",
@@ -1836,7 +1836,7 @@
       "open_issues": 11,
       "owner": "cjwirth",
       "repo": "awesome-ios-ui",
-      "stars": 11230,
+      "stars": 11229,
       "topics": []
     },
     "original_repository_sha": "2bb9ace467fc5048fbdbb52e8fb558cc3973a422",
