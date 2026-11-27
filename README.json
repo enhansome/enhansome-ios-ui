@@ -400,7 +400,7 @@
             "open_issues": 37,
             "owner": "CosmicMind",
             "repo": "Material",
-            "stars": 12024,
+            "stars": 12025,
             "topics": [
               "animation",
               "card",
@@ -933,7 +933,7 @@
             "language": "Objective-C",
             "license": "MIT",
             "last_commit": "2024-08-14T01:48:59Z",
-            "open_issues": 94,
+            "open_issues": 93,
             "owner": "jdg",
             "repo": "MBProgressHUD",
             "stars": 15888,
@@ -1051,7 +1051,7 @@
             "open_issues": 1,
             "owner": "ninjaprox",
             "repo": "NVActivityIndicatorView",
-            "stars": 10712,
+            "stars": 10713,
             "topics": [
               "animation",
               "carthage",
@@ -1667,7 +1667,7 @@
             "open_issues": 131,
             "owner": "nnhubbard",
             "repo": "ZSSRichTextEditor",
-            "stars": 3775,
+            "stars": 3776,
             "topics": []
           },
           "first_seen": "2026-08-29T00:36:12.688Z"
@@ -1735,7 +1735,7 @@
             "open_issues": 79,
             "owner": "slackhq",
             "repo": "SlackTextViewController",
-            "stars": 8243,
+            "stars": 8242,
             "topics": []
           },
           "first_seen": "2026-08-29T00:36:12.688Z"
@@ -1824,7 +1824,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T00:32:49.689Z",
+    "last_updated": "2026-11-27T00:40:52.732Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome iOS UI/UX libraries",
@@ -1836,7 +1836,7 @@
       "open_issues": 11,
       "owner": "cjwirth",
       "repo": "awesome-ios-ui",
-      "stars": 11229,
+      "stars": 11231,
       "topics": []
     },
     "original_repository_sha": "2bb9ace467fc5048fbdbb52e8fb558cc3973a422",
